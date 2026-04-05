@@ -67,5 +67,10 @@
         "placeholder": "住所 / WGS84座標...",
         "error": "場所が見つかりません。",
         "result": "検索結果"
+    },
+    "layer": {
+        "street": "ストリートマップ",
+        "satellite": "衛星地図",
+        "hybrid": "ハイブリッド地図"
     }
 }
