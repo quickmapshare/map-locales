@@ -62,5 +62,10 @@
         "unit_metric": "Hệ mét (m/ha)",
         "unit_imperial": "Hệ Anh (ft/ac)",
         "language": "Ngôn ngữ:"
+    }, 
+    "geocoder": {
+        "placeholder": "Địa chỉ / Tọa độ WGS84...",
+        "error": "Không tìm thấy vị trí.",
+        "result": "Kết quả tìm kiếm"
     }
 }
