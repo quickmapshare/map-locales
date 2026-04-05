@@ -62,5 +62,10 @@
         "unit_metric": "Metric (m/ha)",
         "unit_imperial": "Imperial (ft/ac)",
         "language": "Language:"
+    },
+        "geocoder": {
+        "placeholder": "Dirección / Coord. WGS84...",
+        "error": "Ubicación no encontrada.",
+        "result": "Resultado de búsqueda"
     }
 }
