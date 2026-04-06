@@ -1,0 +1,76 @@
+{
+    "general": {
+        "loading_map": "지도 불러오는 중...",
+        "btn_show_on_map": "지도에 표시",
+        "btn_open_gmap": "📍 구글 지도에서 열기",
+        "guide_help": "📖 가이드 및 도움말",
+        "lbl_gmaps": "구글 지도",
+        "btn_remove": "제거",
+        "btn_add_point": "포인트 추가"
+    },
+    "sidebar": {
+        "select_province": "지역 선택:",
+        "custom_meridian_option": "-- 사용자 지정 자오선 (구 DB) --",
+        "central_meridian": "중앙 자오선 (L0):",
+        "placeholder_meridian": "예: 105.5",
+        "placeholder_coords": "좌표가 여기에 표시되거나 수동으로 붙여넣으세요..."
+    },
+    "results": {
+        "table_edge": "변",
+        "table_length": "길이",
+        "table_total": "총합",
+        "lbl_area": "면적:"
+    },
+    "status_box": {
+        "idle": "시작: ⬠ 다각형 / ↝ 선",
+        "drawing_polygon": "터치하여 포인트 추가 • ❌ 눌러 완료 (≥ 3 포인트)",
+        "drawing_line": "터치하여 포인트 추가 • ❌ 눌러 완료 (≥ 2 포인트)",
+        "done": "포인트 추가, 드래그 또는 삭제하여 수정 • 📸 눌러 캡처",
+        "saved": "링크 준비 완료 → 복사 & 공유",
+        "modified": "변경됨 → 📸 눌러 새 스냅샷 생성"
+    },
+    "map_controls": {
+        "tooltip_draw_poly": "구역 경계 그리기 (ESC 눌러 종료)",
+        "tooltip_draw_line": "경로 그리기 (ESC 눌러 종료)",
+        "tooltip_my_location": "내 위치",
+        "popup_you_are_here": "현재 위치입니다!",
+        "popup_accuracy": "정확도:",
+        "alert_loc_error": "위치를 찾을 수 없습니다: "
+    },
+    "snapshot": {
+        "tooltip_create_snapshot": "스냅샷 생성",
+        "lbl_snapshot_link": "스냅샷 링크",
+        "tooltip_copy_link": "링크 복사",
+        "btn_copy": "복사",
+        "btn_copied": "복사됨",
+        "alert_draw_first": "먼저 다각형이나 선을 그려주세요!",
+        "alert_finish_drawing": "스냅샷을 생성하기 전에 그리기를 완료해주세요!",
+        "tooltip_generating_link": "링크 생성 중..."
+    },
+    "alerts": {
+        "no_coordinates": "좌표를 찾을 수 없습니다! 데이터를 입력해주세요.",
+        "need_2_points": "경로를 그리려면 최소 2개의 포인트가 필요합니다!",
+        "need_3_points": "경계를 그리려면 최소 3개의 포인트가 필요합니다!",
+        "missing_meridian": "중앙 자오선이 결정되지 않았습니다!",
+        "select_province_first": "VN2000 좌표를 입력하기 전에 지역/중앙 자오선을 먼저 선택해주세요!",
+        "out_of_bounds": "⚠️ 경고: 이 VN-2000 좌표는 {province} 내에 있지 않습니다!\n\n잘못된 중앙 자오선을 선택했을 수 있습니다. 다시 확인해주세요!",
+        "restricted_overlap": "🛑 접근 제한: 이 좌표는 제한 구역과 겹칩니다!",
+        "restricted_close": "🛑 접근 제한: 구역이 제한 구역에 너무 가깝습니다 ({distance}m)."
+    },
+    "settings": {
+        "show_board": "보드 표시",
+        "unit_metric": "미터법 (m/ha)",
+        "unit_imperial": "야드파운드법 (ft/ac)",
+        "language": "언어:"
+    },
+    "geocoder": {
+        "placeholder": "주소 / WGS84 좌표...",
+        "error": "위치를 찾을 수 없습니다.",
+        "result": "검색 결과"
+    },
+    "layer": {
+        "street": "일반 지도",
+        "satellite": "위성 지도",
+        "hybrid": "하이브리드 지도"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "general": {
+        "loading_map": "Karte wird geladen...",
+        "btn_show_on_map": "AUF KARTE ANZEIGEN",
+        "btn_open_gmap": "📍 IN GOOGLE MAPS ÖFFNEN",
+        "guide_help": "📖 Anleitung & Hilfe",
+        "lbl_gmaps": "Google Maps",
+        "btn_remove": "Entfernen",
+        "btn_add_point": "Punkt hinzufügen"
+    },
+    "sidebar": {
+        "select_province": "Provinz auswählen:",
+        "custom_meridian_option": "-- Benutzerdefinierter Meridian (Alte DB) --",
+        "central_meridian": "Mittelmeridian (L0):",
+        "placeholder_meridian": "z. B. 105.5",
+        "placeholder_coords": "Koordinaten erscheinen hier oder manuell einfügen..."
+    },
+    "results": {
+        "table_edge": "Kante",
+        "table_length": "Länge",
+        "table_total": "Gesamt",
+        "lbl_area": "Fläche:"
+    },
+    "status_box": {
+        "idle": "Start: ⬠ Polygon / ↝ Linie",
+        "drawing_polygon": "Tippen für Punkte • ❌ zum Beenden (≥ 3 Punkte)",
+        "drawing_line": "Tippen für Punkte • ❌ zum Beenden (≥ 2 Punkte)",
+        "done": "Punkte hinzufügen, ziehen oder löschen • 📸 tippen zum Erfassen",
+        "saved": "Link bereit → Kopieren & Teilen",
+        "modified": "Geändert → 📸 tippen für neuen Snapshot"
+    },
+    "map_controls": {
+        "tooltip_draw_poly": "Grundstücksgrenze zeichnen (ESC zum Abbrechen)",
+        "tooltip_draw_line": "Pfad zeichnen (ESC zum Abbrechen)",
+        "tooltip_my_location": "Mein Standort",
+        "popup_you_are_here": "Sie sind hier!",
+        "popup_accuracy": "Genauigkeit:",
+        "alert_loc_error": "Standort konnte nicht ermittelt werden: "
+    },
+    "snapshot": {
+        "tooltip_create_snapshot": "Snapshot erstellen",
+        "lbl_snapshot_link": "Snapshot-Link",
+        "tooltip_copy_link": "Link kopieren",
+        "btn_copy": "Kopieren",
+        "btn_copied": "Kopiert",
+        "alert_draw_first": "Bitte zuerst ein Polygon oder eine Linie zeichnen!",
+        "alert_finish_drawing": "Bitte das Zeichnen beenden, bevor Sie einen Snapshot erstellen!",
+        "tooltip_generating_link": "Link wird generiert..."
+    },
+    "alerts": {
+        "no_coordinates": "Keine Koordinaten gefunden! Bitte Daten eingeben.",
+        "need_2_points": "Mindestens 2 Punkte sind erforderlich, um einen Pfad zu zeichnen!",
+        "need_3_points": "Mindestens 3 Punkte sind erforderlich, um eine Grenze zu zeichnen!",
+        "missing_meridian": "Mittelmeridian nicht bestimmt!",
+        "select_province_first": "Bitte eine Provinz/Mittelmeridian auswählen, bevor VN2000-Koordinaten eingegeben werden!",
+        "out_of_bounds": "⚠️ ROTER ALARM: Diese VN-2000-Koordinaten LIEGEN NICHT INNERHALB von {province}!\n\nEventuell wurde der falsche Mittelmeridian ausgewählt. Bitte überprüfen!",
+        "restricted_overlap": "🛑 ZUGRIFF VERWEIGERT: Diese Koordinaten überschneiden sich mit einem Sperrgebiet!",
+        "restricted_close": "🛑 ZUGRIFF VERWEIGERT: Das Grundstück ist zu nah an einem Sperrgebiet ({distance}m)."
+    },
+    "settings": {
+        "show_board": "Panel anzeigen",
+        "unit_metric": "Metrisch (m/ha)",
+        "unit_imperial": "Imperial (ft/ac)",
+        "language": "Sprache:"
+    },
+    "geocoder": {
+        "placeholder": "Adresse / WGS84-Koord...",
+        "error": "Standort nicht gefunden.",
+        "result": "Suchergebnis"
+    },
+    "layer": {
+        "street": "Straßenkarte",
+        "satellite": "Satellitenkarte",
+        "hybrid": "Hybridkarte"
+    }
+}
