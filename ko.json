@@ -73,5 +73,10 @@
         "street": "일반 지도",
         "satellite": "위성 지도",
         "hybrid": "하이브리드 지도"
+    }, 
+    "postpage": {
+        "home-msg": "홈",
+        "newer-page-title": "최신 게시물",
+        "older-page-title": "이전 게시물"
     }
 }
