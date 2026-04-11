@@ -77,6 +77,8 @@
     "postpage": {
         "home-msg": "ホーム",
         "newer-page-title": "新しい投稿",
-        "older-page-title": "古い投稿"
+        "older-page-title": "古い投稿",
+        "live_demo_btn": "QuickMapShare ライブデモ",
+        "live_demo_subtext": "実際のインタラクティブな例をご覧ください。ログインは不要です。"
     }
 }
