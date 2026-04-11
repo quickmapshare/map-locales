@@ -1,0 +1,84 @@
+{
+    "general": {
+        "loading_map": "मैप लोड हो रहा है...",
+        "btn_show_on_map": "मैप पर दिखाएं",
+        "btn_open_gmap": "📍 गूगल मैप्स में खोलें",
+        "guide_help": "📖 गाइड और सहायता",
+        "lbl_gmaps": "Google Maps",
+        "btn_remove": "हटाएं",
+        "btn_add_point": "बिंदु जोड़ें"
+    },
+    "sidebar": {
+        "select_province": "प्रांत चुनें:",
+        "custom_meridian_option": "-- कस्टम मेरिडियन (पुराना डीबी) --",
+        "central_meridian": "केंद्रीय याम्योत्तर (L0):",
+        "placeholder_meridian": "उदा., 105.5",
+        "placeholder_coords": "निर्देशांक यहाँ दिखाई देंगे, या मैन्युअल रूप से पेस्ट करें...",
+        "popular-posts-title": "लोकप्रिय पोस्ट"
+    },
+    "results": {
+        "table_edge": "किनारा",
+        "table_length": "लंबाई",
+        "table_total": "कुल",
+        "lbl_area": "क्षेत्रफल:"
+    },
+    "status_box": {
+        "idle": "शुरू करें: ⬠ बहुभुज / ↝ रेखा",
+        "drawing_polygon": "बिंदु जोड़ने के लिए टैप करें • समाप्त करने के लिए ❌ (≥ 3 बिंदु)",
+        "drawing_line": "बिंदु जोड़ने के लिए टैप करें • समाप्त करने के लिए ❌ (≥ 2 बिंदु)",
+        "done": "समायोजित करने के लिए बिंदु जोड़ें, खींचें या हटाएं • 📸 टैप करें",
+        "saved": "लिंक तैयार → कॉपी और साझा करें",
+        "modified": "बदला गया → नया स्नैपशॉट बनाने के लिए 📸 टैप करें"
+    },
+    "map_controls": {
+        "tooltip_draw_poly": "प्लॉट सीमा खींचें (बाहर निकलने के लिए ESC दबाएं)",
+        "tooltip_draw_line": "पथ खींचें (बाहर निकलने के लिए ESC दबाएं)",
+        "tooltip_my_location": "मेरा स्थान",
+        "popup_you_are_here": "आप यहाँ हैं!",
+        "popup_accuracy": "सटीकता:",
+        "alert_loc_error": "आपका स्थान नहीं मिल सका: "
+    },
+    "snapshot": {
+        "tooltip_create_snapshot": "स्नैपशॉट बनाएं",
+        "lbl_snapshot_link": "स्नैपशॉट लिंक",
+        "tooltip_copy_link": "लिंक कॉपी करें",
+        "btn_copy": "कॉपी",
+        "btn_copied": "कॉपी किया गया",
+        "alert_draw_first": "कृपया पहले एक बहुभुज या रेखा खींचें!",
+        "alert_finish_drawing": "स्नैपशॉट बनाने से पहले कृपया अपनी ड्राइंग पूरी करें!",
+        "tooltip_generating_link": "लिंक जनरेट हो रहा है..."
+    },
+    "alerts": {
+        "no_coordinates": "कोई निर्देशांक नहीं मिला! कृपया अपना डेटा दर्ज करें।",
+        "need_2_points": "पथ खींचने के लिए कम से कम 2 बिंदु आवश्यक हैं!",
+        "need_3_points": "सीमा खींचने के लिए कम से कम 3 बिंदु आवश्यक हैं!",
+        "missing_meridian": "केंद्रीय याम्योत्तर निर्धारित नहीं है!",
+        "select_province_first": "VN2000 निर्देशांक दर्ज करने से पहले कृपया एक प्रांत/केंद्रीय याम्योत्तर चुनें!",
+        "out_of_bounds": "⚠️ रेड अलर्ट: ये VN-2000 निर्देशांक {province} के अंदर नहीं आते हैं!\n\nआपने शायद गलत केंद्रीय याम्योत्तर चुना है। कृपया दोबारा जाँच करें!",
+        "restricted_overlap": "🛑 पहुंच अस्वीकृत: ये निर्देशांक एक प्रतिबंधित क्षेत्र के साथ ओवरलैप करते हैं!",
+        "restricted_close": "🛑 पहुंच अस्वीकृत: प्लॉट प्रतिबंधित क्षेत्र ({distance}m) के बहुत करीब है।"
+    },
+    "settings": {
+        "show_board": "बोर्ड दिखाएं",
+        "unit_metric": "मीट्रिक (m/ha)",
+        "unit_imperial": "इंपीरियल (ft/ac)",
+        "language": "भाषा:"
+    },
+    "geocoder": {
+        "placeholder": "पता / WGS84 निर्देशांक...",
+        "error": "स्थान नहीं मिला।",
+        "result": "खोज परिणाम"
+    },
+    "layer": {
+        "street": "सड़क मैप",
+        "satellite": "सैटेलाइट मैप",
+        "hybrid": "हाइब्रिड मैप"
+    },
+    "postpage": {
+        "home-msg": "होम",
+        "newer-page-title": "नई पोस्ट",
+        "older-page-title": "पुरानी पोस्ट",
+        "live_demo_btn": "QuickMapShare लाइव डेमो",
+        "live_demo_subtext": "कार्रवाई में इंटरैक्टिव उदाहरण देखें। कोई लॉगिन आवश्यक नहीं।"
+    }
+}
