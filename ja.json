@@ -73,5 +73,10 @@
         "street": "ストリートマップ",
         "satellite": "衛星地図",
         "hybrid": "ハイブリッド地図"
+    },
+    "postpage": {
+        "home-msg": "ホーム",
+        "newer-page-title": "新しい投稿",
+        "older-page-title": "古い投稿"
     }
 }
