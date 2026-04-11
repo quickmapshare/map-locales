@@ -13,7 +13,8 @@
         "custom_meridian_option": "-- カスタム子午線 (旧DB) --",
         "central_meridian": "中央子午線 (L0):",
         "placeholder_meridian": "例: 105.5",
-        "placeholder_coords": "座標がここに表示されます。または手動で貼り付けてください..."
+        "placeholder_coords": "座標がここに表示されます。または手動で貼り付けてください...",
+        "popular-posts-title": "人気の投稿"
     },
     "results": {
         "table_edge": "辺",
