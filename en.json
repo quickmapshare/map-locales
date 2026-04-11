@@ -77,6 +77,8 @@
     "postpage": {
         "home-msg": "Home",
         "newer-page-title": "Newer post",
-        "older-page-title": "Older post"
+        "older-page-title": "Older post",
+        "live_demo_btn": "QuickMapShare Live Demo",
+        "live_demo_subtext": "See interactive examples in action. No login required."
     }
 }
