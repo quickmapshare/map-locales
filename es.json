@@ -73,5 +73,10 @@
         "street": "Mapa de calles",
         "satellite": "Mapa de satélite",
         "hybrid": "Mapa híbrido"
+    }, 
+    "postpage": {
+        "home-msg": "Inicio",
+        "newer-page-title": "Entradas más recientes",
+        "older-page-title": "Entradas antiguas"
     }
 }
