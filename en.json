@@ -13,7 +13,8 @@
         "custom_meridian_option": "-- Custom Meridian (Old DB) --",
         "central_meridian": "Central Meridian (L0):",
         "placeholder_meridian": "e.g., 105.5",
-        "placeholder_coords": "Coordinates will appear here, or paste them manually..."
+        "placeholder_coords": "Coordinates will appear here, or paste them manually...",
+        "popular-posts-title": "Popular Posts"
     },
     "results": {
         "table_edge": "Edge",
