@@ -13,7 +13,8 @@
         "custom_meridian_option": "-- Meridiano Personalizzato (Vecchio DB) --",
         "central_meridian": "Meridiano Centrale (L0):",
         "placeholder_meridian": "es., 105.5",
-        "placeholder_coords": "Le coordinate appariranno qui, oppure incollale manualmente..."
+        "placeholder_coords": "Le coordinate appariranno qui, oppure incollale manualmente...",
+        "popular-posts-title": "Post popolari"
     },
     "results": {
         "table_edge": "Lato",
