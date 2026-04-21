@@ -22,6 +22,8 @@
         "no_maps": "您还没有任何地图。",
         "snapshot": "快照 ",
         "delete_map": "删除地图",
-        "load_list_error": "无法加载地图列表。"
+        "load_list_error": "无法加载地图列表。",
+        "inapp_warn_title": "不支持的浏览器",
+        "inapp_warn_desc": "请点击右上角的 3 个点，然后选择“在浏览器中打开”（Chrome/Safari）以使用 Google 登录。"
     }
 }
