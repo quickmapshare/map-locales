@@ -22,6 +22,8 @@
         "no_maps": "Sie haben noch keine Karten.",
         "snapshot": "Snapshot ",
         "delete_map": "Karte löschen",
-        "load_list_error": "Kartenliste konnte nicht geladen werden."
+        "load_list_error": "Kartenliste konnte nicht geladen werden.",
+        "inapp_warn_title": "Nicht unterstützter Browser",
+        "inapp_warn_desc": "Bitte tippen Sie auf die 3 Punkte in der oberen rechten Ecke und wählen Sie \"Im Browser öffnen\" (Chrome/Safari), um sich bei Google anzumelden."
     }
 }
