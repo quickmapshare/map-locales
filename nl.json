@@ -22,6 +22,8 @@
         "no_maps": "Je hebt nog geen kaarten.",
         "snapshot": "Momentopname ",
         "delete_map": "Kaart verwijderen",
-        "load_list_error": "Kon de kaartenlijst niet laden."
+        "load_list_error": "Kon de kaartenlijst niet laden.",
+        "inapp_warn_title": "Niet-ondersteunde browser",
+        "inapp_warn_desc": "Tik op de 3 puntjes in de rechterbovenhoek en selecteer \"Openen in browser\" (Chrome/Safari) om in te loggen met Google."
     }
 }
