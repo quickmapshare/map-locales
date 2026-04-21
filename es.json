@@ -10,4 +10,18 @@
     "geocoder": { "placeholder": "Dirección / Coordenadas WGS84...", "error": "Ubicación no encontrada.", "result": "Resultado de Búsqueda" },
     "layer": { "street": "Mapa de Calles", "satellite": "Satélite", "hybrid": "Híbrido" },
     "postpage": { "home-msg": "Inicio", "newer-page-title": "Publicación más reciente", "older-page-title": "Publicación anterior", "live_demo_btn": "Demo en Vivo", "live_demo_subtext": "Vea ejemplos interactivos. Sin registro." }
+    "auth": {
+        "manage_maps": "Administra tus mapas fácilmente: ",
+        "sign_in": "Iniciar sesión con Google",
+        "sign_out": "Cerrar sesión",
+        "my_maps_title": "Mis mapas:",
+        "error": "Error: ",
+        "delete_confirm": "¿Estás seguro de que deseas eliminar esta captura?",
+        "delete_error": "No se puede conectar al servidor para eliminar.",
+        "loading": "Cargando datos...",
+        "no_maps": "Aún no tienes ningún mapa.",
+        "snapshot": "Captura ",
+        "delete_map": "Eliminar mapa",
+        "load_list_error": "No se pudo cargar la lista de mapas."
+    }
 }
