@@ -1,84 +1,13 @@
 {
-    "general": {
-        "loading_map": "正在加载地图...",
-        "btn_show_on_map": "在地图上显示",
-        "btn_open_gmap": "📍 在谷歌地图中打开",
-        "guide_help": "📖 指南与帮助",
-        "lbl_gmaps": "谷歌地图",
-        "btn_remove": "移除",
-        "btn_add_point": "添加点"
-    },
-    "sidebar": {
-        "select_province": "选择省份：",
-        "custom_meridian_option": "-- 自定义中央经线 (旧数据库) --",
-        "central_meridian": "中央经线 (L0)：",
-        "placeholder_meridian": "例如：105.5",
-        "placeholder_coords": "坐标将显示在这里，或手动粘贴...",
-        "popular-posts-title": "热门文章"
-    },
-    "results": {
-        "table_edge": "边长",
-        "table_length": "长度",
-        "table_total": "总计",
-        "lbl_area": "面积："
-    },
-    "status_box": {
-        "idle": "开始：⬠ 多边形 / ↝ 线条",
-        "drawing_polygon": "点击添加点 • ❌ 结束 (≥ 3 个点)",
-        "drawing_line": "点击添加点 • ❌ 结束 (≥ 2 个点)",
-        "done": "添加、拖动或删除点以进行调整 • 点击 📸 截图",
-        "saved": "链接已准备好 → 复制并分享",
-        "modified": "已修改 → 点击 📸 创建新截图"
-    },
-    "map_controls": {
-        "tooltip_draw_poly": "绘制地块边界 (按 ESC 退出)",
-        "tooltip_draw_line": "绘制路径 (按 ESC 退出)",
-        "tooltip_my_location": "我的位置",
-        "popup_you_are_here": "您在这里！",
-        "popup_accuracy": "精确度：",
-        "alert_loc_error": "无法获取您的位置："
-    },
-    "snapshot": {
-        "tooltip_create_snapshot": "创建截图",
-        "lbl_snapshot_link": "截图链接",
-        "tooltip_copy_link": "复制链接",
-        "btn_copy": "复制",
-        "btn_copied": "已复制",
-        "alert_draw_first": "请先绘制一个多边形或线条！",
-        "alert_finish_drawing": "在创建截图之前，请先完成绘制！",
-        "tooltip_generating_link": "正在生成链接..."
-    },
-    "alerts": {
-        "no_coordinates": "未找到坐标！请输入您的数据。",
-        "need_2_points": "绘制路径至少需要 2 个点！",
-        "need_3_points": "绘制边界至少需要 3 个点！",
-        "missing_meridian": "未确定中央经线！",
-        "select_province_first": "在输入 VN2000 坐标之前，请先选择省份/中央经线！",
-        "out_of_bounds": "⚠️ 红色警报：这些 VN-2000 坐标不在 {province} 范围内！\n\n您可能选择了错误的中央经线。请仔细检查！",
-        "restricted_overlap": "🛑 拒绝访问：这些坐标与限制区域重叠！",
-        "restricted_close": "🛑 拒绝访问：该地块距离限制区域太近 ({distance}m)。"
-    },
-    "settings": {
-        "show_board": "显示面板",
-        "unit_metric": "公制 (m/ha)",
-        "unit_imperial": "英制 (ft/ac)",
-        "language": "语言："
-    },
-    "geocoder": {
-        "placeholder": "地址 / WGS84 坐标...",
-        "error": "未找到位置。",
-        "result": "搜索结果"
-    },
-    "layer": {
-        "street": "街道地图",
-        "satellite": "卫星地图",
-        "hybrid": "混合地图"
-    },
-    "postpage": {
-        "home-msg": "首页",
-        "newer-page-title": "较新文章",
-        "older-page-title": "较旧文章",
-        "live_demo_btn": "QuickMapShare 实时演示",
-        "live_demo_subtext": "查看实际的交互式示例。无需登录。"
-    }
+    "general": { "loading_map": "正在加载地图...", "btn_show_on_map": "在地图上显示", "btn_open_gmap": "📍 在 GOOGLE MAPS 中打开", "guide_help": "📖 指南与帮助", "lbl_gmaps": "Google 地图", "btn_remove": "移除", "btn_add_point": "添加点", "btn_add_point_auto": "添加点 (自动)", "btn_hide_circle": "隐藏圆圈", "btn_show_circle": "显示圆圈", "btn_show_all": "显示所有", "btn_hide_all": "隐藏所有", "lbl_nav_title": "节点导航", "lbl_placeholder_wgs": "WGS84 (纬度, 经度)..." },
+    "sidebar": { "select_province": "选择省份:", "custom_meridian_option": "-- 自定义子午线 (旧数据库) --", "central_meridian": "中央子午线 (L0):", "placeholder_meridian": "例: 105.5", "placeholder_coords": "坐标将显示在这里，或手动粘贴...", "popular-posts-title": "热门文章" },
+    "results": { "table_edge": "边", "table_length": "长度", "table_total": "总计", "lbl_area": "面积:" },
+    "status_box": { "idle": "开始: ⬠ 多边形 / ↝ 线条", "drawing_polygon": "点击添加点 • ❌ 完成 (≥ 3 点)", "drawing_line": "点击添加点 • ❌ 完成 (≥ 2 点)", "done": "添加、移动或删除点 • 点击 📸 保存", "saved": "链接已就绪 → 复制并分享", "modified": "已更改 → 点击 📸 创建新链接" },
+    "map_controls": { "tooltip_draw_poly": "绘制地块边界 (按 ESC 退出)", "tooltip_draw_line": "绘制路径 (按 ESC 退出)", "tooltip_my_location": "我的位置", "popup_you_are_here": "您在这里！", "popup_accuracy": "精度:", "alert_loc_error": "无法获取您的位置: " },
+    "snapshot": { "tooltip_create_snapshot": "创建快照", "lbl_snapshot_link": "快照链接", "tooltip_copy_link": "复制链接", "btn_copy": "复制", "btn_copied": "已复制", "alert_draw_first": "请先绘制多边形或线条！", "alert_finish_drawing": "在创建链接前请先完成绘制！", "tooltip_generating_link": "正在生成链接..." },
+    "alerts": { "no_coordinates": "未找到坐标！请输入数据。", "need_2_points": "绘制路径至少需要 2 个点！", "need_3_points": "绘制边界至少需要 3 个点！", "missing_meridian": "尚未确定中央子午线！", "select_province_first": "在输入 VN2000 坐标前请选择省份！", "out_of_bounds": "⚠️ 警告：该坐标不在 {province} 范围内！", "restricted_overlap": "🛑 拒绝访问：与限制区域重叠！", "restricted_close": "🛑 拒绝访问：地块距离限制区域太近 ({distance}m)。" },
+    "settings": { "show_board": "显示面板", "unit_metric": "公制 (m/ha)", "unit_imperial": "英制 (ft/ac)", "language": "语言:" },
+    "geocoder": { "placeholder": "地址 / WGS84 坐标...", "error": "未找到位置。", "result": "搜索结果" },
+    "layer": { "street": "街道地图", "satellite": "卫星地图", "hybrid": "混合地图" },
+    "postpage": { "home-msg": "首页", "newer-page-title": "较新的文章", "older-page-title": "较旧的文章", "live_demo_btn": "实时演示", "live_demo_subtext": "查看交互式示例。无需登录。" }
 }
