@@ -9,5 +9,19 @@
     "settings": { "show_board": "Panel anzeigen", "unit_metric": "Metrisch (m/ha)", "unit_imperial": "Imperial (ft/ac)", "language": "Sprache:" },
     "geocoder": { "placeholder": "Adresse / WGS84-Koordinaten...", "error": "Ort nicht gefunden.", "result": "Suchergebnis" },
     "layer": { "street": "Straßenkarte", "satellite": "Satellit", "hybrid": "Hybrid" },
-    "postpage": { "home-msg": "Startseite", "newer-page-title": "Neuerer Beitrag", "older-page-title": "Älterer Beitrag", "live_demo_btn": "Live-Demo", "live_demo_subtext": "Interaktive Beispiele ansehen. Kein Login erforderlich." }
+    "postpage": { "home-msg": "Startseite", "newer-page-title": "Neuerer Beitrag", "older-page-title": "Älterer Beitrag", "live_demo_btn": "Live-Demo", "live_demo_subtext": "Interaktive Beispiele ansehen. Kein Login erforderlich." },
+    "auth": {
+        "manage_maps": "Verwalten Sie Ihre Karten ganz einfach: ",
+        "sign_in": "Über Google anmelden",
+        "sign_out": "Abmelden",
+        "my_maps_title": "Meine Karten:",
+        "error": "Fehler: ",
+        "delete_confirm": "Möchten Sie diesen Snapshot wirklich löschen?",
+        "delete_error": "Keine Verbindung zum Server zum Löschen möglich.",
+        "loading": "Daten werden geladen...",
+        "no_maps": "Sie haben noch keine Karten.",
+        "snapshot": "Snapshot ",
+        "delete_map": "Karte löschen",
+        "load_list_error": "Kartenliste konnte nicht geladen werden."
+    }
 }
