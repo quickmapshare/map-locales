@@ -9,5 +9,19 @@
     "settings": { "show_board": "बोर्ड दिखाएं", "unit_metric": "मीट्रिक (m/ha)", "unit_imperial": "इंपीरियल (ft/ac)", "language": "भाषा:" },
     "geocoder": { "placeholder": "पता / WGS84 निर्देशांक...", "error": "स्थान नहीं मिला।", "result": "खोज परिणाम" },
     "layer": { "street": "सड़क का नक्शा", "satellite": "सैटेलाइट", "hybrid": "हाइब्रिड" },
-    "postpage": { "home-msg": "होम", "newer-page-title": "नई पोस्ट", "older-page-title": "पुरानी पोस्ट", "live_demo_btn": "लाइव डेमो", "live_demo_subtext": "इंटरएक्टिव उदाहरण देखें। कोई लॉगिन नहीं।" }
+    "postpage": { "home-msg": "होम", "newer-page-title": "नई पोस्ट", "older-page-title": "पुरानी पोस्ट", "live_demo_btn": "लाइव डेमो", "live_demo_subtext": "इंटरएक्टिव उदाहरण देखें। कोई लॉगिन नहीं।" },
+    "auth": {
+        "manage_maps": "अपने मैप आसानी से प्रबंधित करें: ",
+        "sign_in": "Google से साइन इन करें",
+        "sign_out": "साइन आउट करें",
+        "my_maps_title": "मेरे मैप:",
+        "error": "त्रुटि: ",
+        "delete_confirm": "क्या आप वाकई इस स्नैपशॉट को हटाना चाहते हैं?",
+        "delete_error": "हटाने के लिए सर्वर से कनेक्ट नहीं हो सका।",
+        "loading": "डेटा लोड हो रहा है...",
+        "no_maps": "आपके पास अभी तक कोई मैप नहीं है।",
+        "snapshot": "स्नैपशॉट ",
+        "delete_map": "मैप हटाएं",
+        "load_list_error": "मैप सूची लोड नहीं की जा सकी।"
+    }
 }
