@@ -1,84 +1,13 @@
 {
-    "general": {
-        "loading_map": "Cargando mapa...",
-        "btn_show_on_map": "MOSTRAR EN EL MAPA",
-        "btn_open_gmap": "📍 ABRIR EN GOOGLE MAPS",
-        "guide_help": "📖 Guía y Ayuda",
-        "lbl_gmaps": "Google Maps",
-        "btn_remove": "Eliminar",
-        "btn_add_point": "Añadir punto"
-    },
-    "sidebar": {
-        "select_province": "Seleccionar provincia:",
-        "custom_meridian_option": "-- Meridiano personalizado (BD antigua) --",
-        "central_meridian": "Meridiano central (L0):",
-        "placeholder_meridian": "ej., 105.5",
-        "placeholder_coords": "Las coordenadas aparecerán aquí, o pégalas manualmente...",
-        "popular-posts-title": "Entradas populares"
-    },
-    "results": {
-        "table_edge": "Lado",
-        "table_length": "Longitud",
-        "table_total": "Total",
-        "lbl_area": "Área:"
-    },
-    "status_box": {
-        "idle": "Inicio: ⬠ Polígono / ↝ Línea",
-        "drawing_polygon": "Toca para añadir puntos • ❌ para terminar (≥ 3 puntos)",
-        "drawing_line": "Toca para añadir puntos • ❌ para terminar (≥ 2 puntos)",
-        "done": "Añade, arrastra o elimina puntos para ajustar • Toca 📸 para capturar",
-        "saved": "Enlace listo → Copiar y Compartir",
-        "modified": "Modificado → Toca 📸 para crear nueva captura"
-    },
-    "map_controls": {
-        "tooltip_draw_poly": "Dibujar límite de parcela (Presiona ESC para salir)",
-        "tooltip_draw_line": "Dibujar ruta (Presiona ESC para salir)",
-        "tooltip_my_location": "Mi ubicación",
-        "popup_you_are_here": "¡Estás aquí!",
-        "popup_accuracy": "Precisión:",
-        "alert_loc_error": "No se pudo encontrar tu ubicación: "
-    },
-    "snapshot": {
-        "tooltip_create_snapshot": "Crear Captura",
-        "lbl_snapshot_link": "Enlace de Captura",
-        "tooltip_copy_link": "Copiar enlace",
-        "btn_copy": "Copiar",
-        "btn_copied": "Copiado",
-        "alert_draw_first": "¡Por favor, dibuja un polígono o línea primero!",
-        "alert_finish_drawing": "¡Por favor, termina tu dibujo primero antes de crear una captura!",
-        "tooltip_generating_link": "Generando enlace..."
-    },
-    "alerts": {
-        "no_coordinates": "¡No se encontraron coordenadas! Por favor, introduzca sus datos.",
-        "need_2_points": "¡Se requieren al menos 2 puntos para dibujar una ruta!",
-        "need_3_points": "¡Se requieren al menos 3 puntos para dibujar un límite!",
-        "missing_meridian": "¡Meridiano central no determinado!",
-        "select_province_first": "¡Por favor, seleccione una provincia / meridiano central antes de ingresar las coordenadas VN2000!",
-        "out_of_bounds": "⚠️ ALERTA ROJA: ¡Estas coordenadas VN-2000 NO CAEN DENTRO DE {province}!\n\nEs posible que haya seleccionado el meridiano central equivocado. ¡Por favor, compruébelo!",
-        "restricted_overlap": "🛑 ACCESO DENEGADO: ¡Estas coordenadas se superponen con un área restringida!",
-        "restricted_close": "🛑 ACCESO DENEGADO: La parcela está demasiado cerca de un área restringida ({distance}m)."
-    },
-    "settings": {
-        "show_board": "Mostrar panel",
-        "unit_metric": "Métrico (m/ha)",
-        "unit_imperial": "Imperial (ft/ac)",
-        "language": "Idioma:"
-    },
-    "geocoder": {
-        "placeholder": "Dirección / Coord. WGS84...",
-        "error": "Ubicación no encontrada.",
-        "result": "Resultado de búsqueda"
-    },
-    "layer": {
-        "street": "Mapa de calles",
-        "satellite": "Mapa de satélite",
-        "hybrid": "Mapa híbrido"
-    }, 
-    "postpage": {
-        "home-msg": "Inicio",
-        "newer-page-title": "Entradas más recientes",
-        "older-page-title": "Entradas antiguas",
-        "live_demo_btn": "QuickMapShare Demo en Vivo",
-        "live_demo_subtext": "Vea ejemplos interactivos en acción. No requiere inicio de sesión."
-    }
+    "general": { "loading_map": "Cargando mapa...", "btn_show_on_map": "MOSTRAR EN EL MAPA", "btn_open_gmap": "📍 ABRIR EN GOOGLE MAPS", "guide_help": "📖 Guía y Ayuda", "lbl_gmaps": "Google Maps", "btn_remove": "Eliminar", "btn_add_point": "Añadir punto", "btn_add_point_auto": "Añadir punto (Auto)", "btn_hide_circle": "Ocultar círculo", "btn_show_circle": "Mostrar círculo", "btn_show_all": "Mostrar todos", "btn_hide_all": "Ocultar todos", "lbl_nav_title": "Navegador de nodos", "lbl_placeholder_wgs": "WGS84 (Lat, Lng)..." },
+    "sidebar": { "select_province": "Seleccione Provincia:", "custom_meridian_option": "-- Meridiano Personalizado (BD Antigua) --", "central_meridian": "Meridiano Central (L0):", "placeholder_meridian": "Ej: 105.5", "placeholder_coords": "Las coordenadas aparecerán aquí, o péguelas manualmente...", "popular-posts-title": "Publicaciones Populares" },
+    "results": { "table_edge": "Borde", "table_length": "Longitud", "table_total": "Total", "lbl_area": "Área:" },
+    "status_box": { "idle": "Inicio: ⬠ Polígono / ↝ Línea", "drawing_polygon": "Toque para añadir punto • ❌ para terminar (≥ 3 ptos)", "drawing_line": "Toque para añadir punto • ❌ para terminar (≥ 2 ptos)", "done": "Añada, mueva o elimine puntos • Toque 📸 para guardar", "saved": "Enlace listo → Copiar y Compartir", "modified": "Modificado → Toque 📸 para nuevo enlace" },
+    "map_controls": { "tooltip_draw_poly": "Dibujar límite de parcela (ESC para salir)", "tooltip_draw_line": "Dibujar ruta (ESC para salir)", "tooltip_my_location": "Mi ubicación", "popup_you_are_here": "¡Estás aquí!", "popup_accuracy": "Precisión:", "alert_loc_error": "No se pudo encontrar su ubicación: " },
+    "snapshot": { "tooltip_create_snapshot": "Crear Snapshot", "lbl_snapshot_link": "Enlace de Snapshot", "tooltip_copy_link": "Copiar enlace", "btn_copy": "Copiar", "btn_copied": "Copiado", "alert_draw_first": "¡Por favor, dibuje un polígono o línea primero!", "alert_finish_drawing": "¡Por favor, termine el dibujo antes de crear un enlace!", "tooltip_generating_link": "Generando enlace..." },
+    "alerts": { "no_coordinates": "¡No se encontraron coordenadas! Ingrese sus datos.", "need_2_points": "¡Se requieren al menos 2 puntos para dibujar una ruta!", "need_3_points": "¡Se requieren al menos 3 puntos para dibujar un límite!", "missing_meridian": "¡Meridiano Central no determinado!", "select_province_first": "¡Seleccione Provincia/Meridiano Central antes de ingresar coordenadas VN2000!", "out_of_bounds": "⚠️ ALERTA: ¡Estas coordenadas VN-2000 NO CAEN DENTRO DE {province}!\n\nPosible Meridiano Central incorrecto. ¡Verifique!", "restricted_overlap": "🛑 ACCESO DENEGADO: ¡Estas coordenadas se superponen con un área restringida!", "restricted_close": "🛑 ACCESO DENEGADO: La parcela está demasiado cerca de un área restringida ({distance}m)." },
+    "settings": { "show_board": "Mostrar Panel", "unit_metric": "Métrico (m/ha)", "unit_imperial": "Imperial (ft/ac)", "language": "Idioma:" },
+    "geocoder": { "placeholder": "Dirección / Coordenadas WGS84...", "error": "Ubicación no encontrada.", "result": "Resultado de Búsqueda" },
+    "layer": { "street": "Mapa de Calles", "satellite": "Satélite", "hybrid": "Híbrido" },
+    "postpage": { "home-msg": "Inicio", "newer-page-title": "Publicación más reciente", "older-page-title": "Publicación anterior", "live_demo_btn": "Demo en Vivo", "live_demo_subtext": "Vea ejemplos interactivos. Sin registro." }
 }
