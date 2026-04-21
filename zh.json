@@ -9,5 +9,19 @@
     "settings": { "show_board": "显示面板", "unit_metric": "公制 (m/ha)", "unit_imperial": "英制 (ft/ac)", "language": "语言:" },
     "geocoder": { "placeholder": "地址 / WGS84 坐标...", "error": "未找到位置。", "result": "搜索结果" },
     "layer": { "street": "街道地图", "satellite": "卫星地图", "hybrid": "混合地图" },
-    "postpage": { "home-msg": "首页", "newer-page-title": "较新的文章", "older-page-title": "较旧的文章", "live_demo_btn": "实时演示", "live_demo_subtext": "查看交互式示例。无需登录。" }
+    "postpage": { "home-msg": "首页", "newer-page-title": "较新的文章", "older-page-title": "较旧的文章", "live_demo_btn": "实时演示", "live_demo_subtext": "查看交互式示例。无需登录。" },
+    "auth": {
+        "manage_maps": "轻松管理您的地图：",
+        "sign_in": "使用 Google 登录",
+        "sign_out": "退出登录",
+        "my_maps_title": "我的地图：",
+        "error": "错误：",
+        "delete_confirm": "您确定要删除此快照吗？",
+        "delete_error": "无法连接到服务器进行删除。",
+        "loading": "正在加载数据...",
+        "no_maps": "您还没有任何地图。",
+        "snapshot": "快照 ",
+        "delete_map": "删除地图",
+        "load_list_error": "无法加载地图列表。"
+    }
 }
