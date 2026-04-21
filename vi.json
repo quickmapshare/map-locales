@@ -87,5 +87,20 @@
         "older-page-title": "Bài cũ hơn",
         "live_demo_btn": "Dùng thử QuickMapShare",
         "live_demo_subtext": "Xem các ví dụ tương tác thực tế. Không cần đăng nhập."
+    },
+    "auth": {
+        "manage_maps": "Quản lý bản đồ dễ dàng hơn: ",
+        "sign_in": "Đăng nhập bằng Google",
+        "sign_out": "Đăng xuất",
+        "my_maps_title": "Bản đồ của tôi:",
+        "error": "Lỗi: ",
+        "delete_confirm": "Bạn có chắc chắn muốn xóa bản đồ này không?",
+        "delete_error": "Không thể kết nối máy chủ để xóa.",
+        "loading": "Đang tải dữ liệu...",
+        "no_maps": "Bạn chưa có bản đồ nào.",
+        "snapshot": "Bản đồ ",
+        "delete_map": "Xóa bản đồ",
+        "load_list_error": "Không thể tải danh sách bản đồ."
     }
+    
 }
