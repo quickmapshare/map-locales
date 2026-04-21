@@ -1,84 +1,13 @@
 {
-    "general": {
-        "loading_map": "Harita yükleniyor...",
-        "btn_show_on_map": "HARİTADA GÖSTER",
-        "btn_open_gmap": "📍 GOOGLE MAPS'TE AÇ",
-        "guide_help": "📖 Kılavuz & Yardım",
-        "lbl_gmaps": "Google Maps",
-        "btn_remove": "Kaldır",
-        "btn_add_point": "Nokta ekle"
-    },
-    "sidebar": {
-        "select_province": "İl Seçin:",
-        "custom_meridian_option": "-- Özel Meridyen (Eski VT) --",
-        "central_meridian": "Orta Meridyen (L0):",
-        "placeholder_meridian": "örn., 105.5",
-        "placeholder_coords": "Koordinatlar burada görünecek veya manuel olarak yapıştırın...",
-        "popular-posts-title": "Popüler Gönderiler"
-    },
-    "results": {
-        "table_edge": "Kenar",
-        "table_length": "Uzunluk",
-        "table_total": "Toplam",
-        "lbl_area": "Alan:"
-    },
-    "status_box": {
-        "idle": "Başla: ⬠ Poligon / ↝ Çizgi",
-        "drawing_polygon": "Nokta eklemek için dokunun • Bitirmek için ❌ (≥ 3 nokta)",
-        "drawing_line": "Nokta eklemek için dokunun • Bitirmek için ❌ (≥ 2 nokta)",
-        "done": "Nokta ekleyin, sürükleyin, silin • Anlık görüntü için 📸 dokunun",
-        "saved": "Bağlantı hazır → Kopyala & Paylaş",
-        "modified": "Değiştirildi → Yeni anlık görüntü için 📸 dokunun"
-    },
-    "map_controls": {
-        "tooltip_draw_poly": "Arsa sınırı çiz (Çıkmak için ESC'ye bas)",
-        "tooltip_draw_line": "Yol çiz (Çıkmak için ESC'ye bas)",
-        "tooltip_my_location": "Konumum",
-        "popup_you_are_here": "Buradasınız!",
-        "popup_accuracy": "Doğruluk:",
-        "alert_loc_error": "Konumunuz bulunamadı: "
-    },
-    "snapshot": {
-        "tooltip_create_snapshot": "Anlık Görüntü Oluştur",
-        "lbl_snapshot_link": "Anlık Görüntü Bağlantısı",
-        "tooltip_copy_link": "Bağlantıyı kopyala",
-        "btn_copy": "Kopyala",
-        "btn_copied": "Kopyalandı",
-        "alert_draw_first": "Lütfen önce bir poligon veya çizgi çizin!",
-        "alert_finish_drawing": "Lütfen anlık görüntü oluşturmadan önce çiziminizi tamamlayın!",
-        "tooltip_generating_link": "Bağlantı oluşturuluyor..."
-    },
-    "alerts": {
-        "no_coordinates": "Koordinat bulunamadı! Lütfen verilerinizi girin.",
-        "need_2_points": "Bir yol çizmek için en az 2 nokta gereklidir!",
-        "need_3_points": "Bir sınır çizmek için en az 3 nokta gereklidir!",
-        "missing_meridian": "Orta Meridyen belirlenmedi!",
-        "select_province_first": "VN2000 koordinatlarını girmeden önce lütfen bir İl/Orta Meridyen seçin!",
-        "out_of_bounds": "⚠️ KIRMIZI ALARM: Bu VN-2000 koordinatları {province} İÇİNDE DEĞİL!\n\nYanlış Orta Meridyeni seçmiş olabilirsiniz. Lütfen iki kez kontrol edin!",
-        "restricted_overlap": "🛑 ERİŞİM REDDEDİLDİ: Bu koordinatlar yasaklı bir alanla örtüşüyor!",
-        "restricted_close": "🛑 ERİŞİM REDDEDİLDİ: Arsa yasaklı bir alana çok yakın ({distance}m)."
-    },
-    "settings": {
-        "show_board": "Panoyu Göster",
-        "unit_metric": "Metrik (m/ha)",
-        "unit_imperial": "İngiliz (ft/ac)",
-        "language": "Dil:"
-    },
-    "geocoder": {
-        "placeholder": "Adres / WGS84 koordinatları...",
-        "error": "Konum bulunamadı.",
-        "result": "Arama Sonucu"
-    },
-    "layer": {
-        "street": "Sokak Haritası",
-        "satellite": "Uydu Haritası",
-        "hybrid": "Hibrit Harita"
-    },
-    "postpage": {
-        "home-msg": "Ana Sayfa",
-        "newer-page-title": "Daha yeni gönderi",
-        "older-page-title": "Daha eski gönderi",
-        "live_demo_btn": "QuickMapShare Canlı Demo",
-        "live_demo_subtext": "Etkileşimli örnekleri işbaşında görün. Giriş gerekmez."
-    }
+    "general": { "loading_map": "Harita yükleniyor...", "btn_show_on_map": "HARİTADA GÖSTER", "btn_open_gmap": "📍 GOOGLE MAPS'TE AÇ", "guide_help": "📖 Kılavuz & Yardım", "lbl_gmaps": "Google Maps", "btn_remove": "Kaldır", "btn_add_point": "Nokta ekle", "btn_add_point_auto": "Nokta ekle (Otomatik)", "btn_hide_circle": "Daireyi gizle", "btn_show_circle": "Daireyi göster", "btn_show_all": "Tümünü göster", "btn_hide_all": "Tümünü gizle", "lbl_nav_title": "Nokta Yönlendirici", "lbl_placeholder_wgs": "WGS84 (Enlem, Boylam)..." },
+    "sidebar": { "select_province": "İl Seçin:", "custom_meridian_option": "-- Özel Meridyen (Eski DB) --", "central_meridian": "Merkezi Meridyen (L0):", "placeholder_meridian": "Örn: 105.5", "placeholder_coords": "Koordinatlar burada görünecek, veya yapıştırın...", "popular-posts-title": "Popüler Gönderiler" },
+    "results": { "table_edge": "Kenar", "table_length": "Uzunluk", "table_total": "Toplam", "lbl_area": "Alan:" },
+    "status_box": { "idle": "Başla: ⬠ Çokgen / ↝ Çizgi", "drawing_polygon": "Eklemek için dokun • ❌ Bitir (≥ 3 nokta)", "drawing_line": "Eklemek için dokun • ❌ Bitir (≥ 2 nokta)", "done": "Nokta ekle, taşı, sil • 📸 Kaydetmek için dokun", "saved": "Bağlantı hazır → Kopyala & Paylaş", "modified": "Değiştirildi → 📸 Yeni bağlantı için dokun" },
+    "map_controls": { "tooltip_draw_poly": "Sınır çiz (Çıkmak için ESC)", "tooltip_draw_line": "Yol çiz (Çıkmak için ESC)", "tooltip_my_location": "Konumum", "popup_you_are_here": "Buradasınız!", "popup_accuracy": "Doğruluk:", "alert_loc_error": "Konumunuz bulunamadı: " },
+    "snapshot": { "tooltip_create_snapshot": "Anlık Görüntü (Snapshot) Oluştur", "lbl_snapshot_link": "Snapshot Bağlantısı", "tooltip_copy_link": "Bağlantıyı kopyala", "btn_copy": "Kopyala", "btn_copied": "Kopyalandı", "alert_draw_first": "Lütfen önce çokgen veya çizgi çizin!", "alert_finish_drawing": "Bağlantı oluşturmadan önce çizimi bitirin!", "tooltip_generating_link": "Bağlantı oluşturuluyor..." },
+    "alerts": { "no_coordinates": "Koordinat bulunamadı! Verilerinizi girin.", "need_2_points": "Yol için en az 2 nokta gerekli!", "need_3_points": "Sınır için en az 3 nokta gerekli!", "missing_meridian": "Merkezi Meridyen belirlenmedi!", "select_province_first": "Lütfen VN2000 girmeden önce İl/Meridyen seçin!", "out_of_bounds": "⚠️ UYARI: Bu VN-2000 koordinatları {province} İÇİNDE DEĞİL!\n\nYanlış Meridyen seçilmiş olabilir. Lütfen kontrol edin!", "restricted_overlap": "🛑 ERİŞİM REDDEDİLDİ: Yasaklı alanla kesişiyor!", "restricted_close": "🛑 ERİŞİM REDDEDİLDİ: Yasaklı alana çok yakın ({distance}m)." },
+    "settings": { "show_board": "Paneli Göster", "unit_metric": "Metrik (m/ha)", "unit_imperial": "İmparatorluk (ft/ac)", "language": "Dil:" },
+    "geocoder": { "placeholder": "Adres / WGS84 Koordinatları...", "error": "Konum bulunamadı.", "result": "Arama Sonucu" },
+    "layer": { "street": "Sokak Haritası", "satellite": "Uydu", "hybrid": "Karma" },
+    "postpage": { "home-msg": "Ana Sayfa", "newer-page-title": "Daha yeni gönderi", "older-page-title": "Daha eski gönderi", "live_demo_btn": "Canlı Demo", "live_demo_subtext": "Etkileşimli örnekleri görün. Giriş gerekmez." }
 }
