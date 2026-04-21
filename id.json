@@ -9,5 +9,19 @@
     "settings": { "show_board": "Tampilkan Papan", "unit_metric": "Metrik (m/ha)", "unit_imperial": "Imperial (ft/ac)", "language": "Bahasa:" },
     "geocoder": { "placeholder": "Alamat / Koordinat WGS84...", "error": "Lokasi tidak ditemukan.", "result": "Hasil Pencarian" },
     "layer": { "street": "Peta Jalan", "satellite": "Satelit", "hybrid": "Hibrida" },
-    "postpage": { "home-msg": "Beranda", "newer-page-title": "Postingan lebih baru", "older-page-title": "Postingan lebih lama", "live_demo_btn": "Demo Langsung", "live_demo_subtext": "Lihat contoh interaktif. Tidak perlu masuk." }
+    "postpage": { "home-msg": "Beranda", "newer-page-title": "Postingan lebih baru", "older-page-title": "Postingan lebih lama", "live_demo_btn": "Demo Langsung", "live_demo_subtext": "Lihat contoh interaktif. Tidak perlu masuk." },
+    "auth": {
+        "manage_maps": "Kelola peta Anda dengan mudah: ",
+        "sign_in": "Masuk dengan Google",
+        "sign_out": "Keluar",
+        "my_maps_title": "Peta Saya:",
+        "error": "Kesalahan: ",
+        "delete_confirm": "Apakah Anda yakin ingin menghapus cuplikan ini?",
+        "delete_error": "Tidak dapat terhubung ke server untuk menghapus.",
+        "loading": "Memuat data...",
+        "no_maps": "Anda belum memiliki peta apa pun.",
+        "snapshot": "Cuplikan ",
+        "delete_map": "Hapus peta",
+        "load_list_error": "Tidak dapat memuat daftar peta."
+    }
 }
