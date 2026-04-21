@@ -9,5 +9,19 @@
     "settings": { "show_board": "보드 표시", "unit_metric": "미터법 (m/ha)", "unit_imperial": "야드파운드법 (ft/ac)", "language": "언어:" },
     "geocoder": { "placeholder": "주소 / WGS84 좌표...", "error": "위치를 찾을 수 없습니다.", "result": "검색 결과" },
     "layer": { "street": "거리 지도", "satellite": "위성", "hybrid": "하이브리드" },
-    "postpage": { "home-msg": "홈", "newer-page-title": "새 게시물", "older-page-title": "이전 게시물", "live_demo_btn": "라이브 데모", "live_demo_subtext": "인터랙티브 예제 보기. 로그인 불필요." }
+    "postpage": { "home-msg": "홈", "newer-page-title": "새 게시물", "older-page-title": "이전 게시물", "live_demo_btn": "라이브 데모", "live_demo_subtext": "인터랙티브 예제 보기. 로그인 불필요." },
+    "auth": {
+        "manage_maps": "지도를 쉽게 관리하세요: ",
+        "sign_in": "Google로 로그인",
+        "sign_out": "로그아웃",
+        "my_maps_title": "내 지도:",
+        "error": "오류: ",
+        "delete_confirm": "이 스냅샷을 삭제하시겠습니까?",
+        "delete_error": "삭제를 위해 서버에 연결할 수 없습니다.",
+        "loading": "데이터 로딩 중...",
+        "no_maps": "아직 지도가 없습니다.",
+        "snapshot": "스냅샷 ",
+        "delete_map": "지도 삭제",
+        "load_list_error": "지도 목록을 불러올 수 없습니다."
+    }
 }
