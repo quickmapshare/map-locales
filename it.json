@@ -9,5 +9,19 @@
     "settings": { "show_board": "Mostra Pannello", "unit_metric": "Metrico (m/ha)", "unit_imperial": "Imperiale (ft/ac)", "language": "Lingua:" },
     "geocoder": { "placeholder": "Indirizzo / Coordinate WGS84...", "error": "Posizione non trovata.", "result": "Risultato Ricerca" },
     "layer": { "street": "Mappa Stradale", "satellite": "Satellite", "hybrid": "Ibrido" },
-    "postpage": { "home-msg": "Home", "newer-page-title": "Post più recente", "older-page-title": "Post più vecchio", "live_demo_btn": "Demo Live", "live_demo_subtext": "Guarda esempi interattivi. Nessun login." }
+    "postpage": { "home-msg": "Home", "newer-page-title": "Post più recente", "older-page-title": "Post più vecchio", "live_demo_btn": "Demo Live", "live_demo_subtext": "Guarda esempi interattivi. Nessun login." },
+    "auth": {
+        "manage_maps": "Gestisci facilmente le tue mappe: ",
+        "sign_in": "Accedi con Google",
+        "sign_out": "Esci",
+        "my_maps_title": "Le mie mappe:",
+        "error": "Errore: ",
+        "delete_confirm": "Sei sicuro di voler eliminare questo snapshot?",
+        "delete_error": "Impossibile connettersi al server per l'eliminazione.",
+        "loading": "Caricamento dati in corso...",
+        "no_maps": "Non hai ancora nessuna mappa.",
+        "snapshot": "Snapshot ",
+        "delete_map": "Elimina mappa",
+        "load_list_error": "Impossibile caricare l'elenco delle mappe."
+    }
 }
