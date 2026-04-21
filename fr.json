@@ -22,6 +22,8 @@
         "no_maps": "Vous n'avez pas encore de cartes.",
         "snapshot": "Instantané ",
         "delete_map": "Supprimer la carte",
-        "load_list_error": "Impossible de charger la liste des cartes."
+        "load_list_error": "Impossible de charger la liste des cartes.",
+        "inapp_warn_title": "Navigateur non pris en charge",
+        "inapp_warn_desc": "Veuillez appuyer sur les 3 points dans le coin supérieur droit et sélectionner \"Ouvrir dans le navigateur\" (Chrome/Safari) pour vous connecter avec Google."
     }
 }
