@@ -22,6 +22,8 @@
         "no_maps": "Henüz hiç haritanız yok.",
         "snapshot": "Anlık görüntü ",
         "delete_map": "Haritayı sil",
-        "load_list_error": "Harita listesi yüklenemedi."
+        "load_list_error": "Harita listesi yüklenemedi.",
+        "inapp_warn_title": "Desteklenmeyen Tarayıcı",
+        "inapp_warn_desc": "Google ile oturum açmak için lütfen sağ üst köşedeki 3 noktaya dokunun ve \"Tarayıcıda aç\" (Chrome/Safari) seçeneğini seçin."
     }
 }
