@@ -9,5 +9,19 @@
     "settings": { "show_board": "Показать панель", "unit_metric": "Метрическая (м/га)", "unit_imperial": "Британская (фут/акр)", "language": "Язык:" },
     "geocoder": { "placeholder": "Адрес / Координаты WGS84...", "error": "Место не найдено.", "result": "Результат поиска" },
     "layer": { "street": "Карта улиц", "satellite": "Спутник", "hybrid": "Гибрид" },
-    "postpage": { "home-msg": "Главная", "newer-page-title": "Новая запись", "older-page-title": "Старая запись", "live_demo_btn": "Live-Демо", "live_demo_subtext": "Интерактивные примеры. Вход не требуется." }
+    "postpage": { "home-msg": "Главная", "newer-page-title": "Новая запись", "older-page-title": "Старая запись", "live_demo_btn": "Live-Демо", "live_demo_subtext": "Интерактивные примеры. Вход не требуется." },
+    "auth": {
+        "manage_maps": "Легко управляйте своими картами: ",
+        "sign_in": "Войти через Google",
+        "sign_out": "Выйти",
+        "my_maps_title": "Мои карты:",
+        "error": "Ошибка: ",
+        "delete_confirm": "Вы уверены, что хотите удалить этот снимок?",
+        "delete_error": "Не удалось подключиться к серверу для удаления.",
+        "loading": "Загрузка данных...",
+        "no_maps": "У вас пока нет карт.",
+        "snapshot": "Снимок ",
+        "delete_map": "Удалить карту",
+        "load_list_error": "Не удалось загрузить список карт."
+    }
 }
