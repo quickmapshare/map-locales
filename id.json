@@ -22,6 +22,8 @@
         "no_maps": "Anda belum memiliki peta apa pun.",
         "snapshot": "Cuplikan ",
         "delete_map": "Hapus peta",
-        "load_list_error": "Tidak dapat memuat daftar peta."
+        "load_list_error": "Tidak dapat memuat daftar peta.",
+        "inapp_warn_title": "Peramban Tidak Didukung",
+        "inapp_warn_desc": "Ketuk 3 titik di sudut kanan atas dan pilih \"Buka di peramban\" (Chrome/Safari) untuk masuk dengan Google."
     }
 }
