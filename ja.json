@@ -9,5 +9,19 @@
     "settings": { "show_board": "パネルを表示", "unit_metric": "メートル法 (m/ha)", "unit_imperial": "ヤード・ポンド法 (ft/ac)", "language": "言語:" },
     "geocoder": { "placeholder": "住所 / WGS84 座標...", "error": "場所が見つかりません。", "result": "検索結果" },
     "layer": { "street": "ストリートマップ", "satellite": "衛星写真", "hybrid": "ハイブリッド" },
-    "postpage": { "home-msg": "ホーム", "newer-page-title": "新しい投稿", "older-page-title": "古い投稿", "live_demo_btn": "ライブデモ", "live_demo_subtext": "インタラクティブな例を表示。ログイン不要。" }
+    "postpage": { "home-msg": "ホーム", "newer-page-title": "新しい投稿", "older-page-title": "古い投稿", "live_demo_btn": "ライブデモ", "live_demo_subtext": "インタラクティブな例を表示。ログイン不要。" },
+    "auth": {
+        "manage_maps": "マップを簡単に管理：",
+        "sign_in": "Googleでログイン",
+        "sign_out": "ログアウト",
+        "my_maps_title": "マイマップ：",
+        "error": "エラー：",
+        "delete_confirm": "このスナップショットを削除してもよろしいですか？",
+        "delete_error": "削除のためのサーバーに接続できません。",
+        "loading": "データを読み込み中...",
+        "no_maps": "マップがまだありません。",
+        "snapshot": "スナップショット ",
+        "delete_map": "マップを削除",
+        "load_list_error": "マップリストを読み込めませんでした。"
+    }
 }
