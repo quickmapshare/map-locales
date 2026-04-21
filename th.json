@@ -9,5 +9,19 @@
     "settings": { "show_board": "แสดงแผงควบคุม", "unit_metric": "เมตริก (m/ha)", "unit_imperial": "อิมพีเรียล (ft/ac)", "language": "ภาษา:" },
     "geocoder": { "placeholder": "ที่อยู่ / พิกัด WGS84...", "error": "ไม่พบตำแหน่ง", "result": "ผลการค้นหา" },
     "layer": { "street": "แผนที่ถนน", "satellite": "ดาวเทียม", "hybrid": "ผสม" },
-    "postpage": { "home-msg": "หน้าแรก", "newer-page-title": "โพสต์ใหม่กว่า", "older-page-title": "โพสต์เก่ากว่า", "live_demo_btn": "ลองใช้เวอร์ชันจริง", "live_demo_subtext": "ดูตัวอย่างแบบโต้ตอบ ไม่ต้องเข้าสู่ระบบ" }
+    "postpage": { "home-msg": "หน้าแรก", "newer-page-title": "โพสต์ใหม่กว่า", "older-page-title": "โพสต์เก่ากว่า", "live_demo_btn": "ลองใช้เวอร์ชันจริง", "live_demo_subtext": "ดูตัวอย่างแบบโต้ตอบ ไม่ต้องเข้าสู่ระบบ" },
+    "auth": {
+        "manage_maps": "จัดการแผนที่ของคุณอย่างง่ายดาย: ",
+        "sign_in": "ลงชื่อเข้าใช้ด้วย Google",
+        "sign_out": "ออกจากระบบ",
+        "my_maps_title": "แผนที่ของฉัน:",
+        "error": "ข้อผิดพลาด: ",
+        "delete_confirm": "คุณแน่ใจหรือไม่ว่าต้องการลบสแนปชอตนี้?",
+        "delete_error": "ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์เพื่อลบได้",
+        "loading": "กำลังโหลดข้อมูล...",
+        "no_maps": "คุณยังไม่มีแผนที่เลย",
+        "snapshot": "สแนปชอต ",
+        "delete_map": "ลบแผนที่",
+        "load_list_error": "ไม่สามารถโหลดรายการแผนที่ได้"
+    }
 }
