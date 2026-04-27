@@ -1255,7 +1255,6 @@ function capNhatHinhVaToaDo() {
     if (wgs84Coords.length >= 2) {
         if (typeof calculateMetrics === 'function') calculateMetrics(wgs84Coords);
         document.getElementById("results").style.display = "block";
-        document.getElementById("sidebar").style.display = "none";
 
         let helpLinkBtn = document.getElementById("btnHelpLink");
         if (helpLinkBtn) helpLinkBtn.style.display = "none";
