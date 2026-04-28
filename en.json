@@ -92,7 +92,7 @@
         "manage_maps": "Manage your maps easily: ",
         "sign_in": "Sign in with Google",
         "sign_out": "Sign out",
-        "my_maps_title": "My Maps:",
+        "my_maps_title": "My Maps",
         "error": "Error: ",
         "delete_confirm": "Are you sure you want to delete this snapshot?",
         "delete_error": "Cannot connect to server to delete.",
