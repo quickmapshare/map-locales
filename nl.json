@@ -24,6 +24,8 @@
         "delete_map": "Kaart verwijderen",
         "load_list_error": "Kon de kaartenlijst niet laden.",
         "inapp_warn_title": "Niet-ondersteunde browser",
-        "inapp_warn_desc": "Tik op de 3 puntjes in de rechterbovenhoek en selecteer \"Openen in browser\" (Chrome/Safari) om in te loggen met Google."
+        "inapp_warn_desc": "Tik op de 3 puntjes in de rechterbovenhoek en selecteer \"Openen in browser\" (Chrome/Safari) om in te loggen met Google.",
+        "view": "Kaart bekijken",
+        "btn_new_map": "Nieuwe kaart"
     }
 }
