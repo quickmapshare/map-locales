@@ -26,7 +26,8 @@
         "inapp_warn_title": "Nicht unterstützter Browser",
         "inapp_warn_desc": "Bitte tippen Sie auf die 3 Punkte in der oberen rechten Ecke und wählen Sie \"Im Browser öffnen\" (Chrome/Safari), um sich bei Google anzumelden.",
         "view": "Karte ansehen",
-        "btn_new_map": "Neue Karte""manage_labels": "Labels verwalten",
+        "btn_new_map": "Neue Karte",
+        "manage_labels": "Labels verwalten",
         "load_error": "Fehler beim Laden der Daten"
     },
     "labels": {
