@@ -26,7 +26,8 @@
         "inapp_warn_title": "Desteklenmeyen Tarayıcı",
         "inapp_warn_desc": "Google ile oturum açmak için lütfen sağ üst köşedeki 3 noktaya dokunun ve \"Tarayıcıda aç\" (Chrome/Safari) seçeneğini seçin.",
         "view": "Haritayı görüntüle",
-        "btn_new_map": "Yeni harita""manage_labels": "Etiketleri yönet",
+        "btn_new_map": "Yeni harita",
+        "manage_labels": "Etiketleri yönet",
         "load_error": "Veri yükleme hatası"
     },
     "labels": {
