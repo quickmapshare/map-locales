@@ -26,7 +26,8 @@
         "inapp_warn_title": "Navegador no compatible",
         "inapp_warn_desc": "Toca los 3 puntos en la esquina superior derecha y selecciona \"Abrir en el navegador\" (Chrome/Safari) para iniciar sesión con Google.",
         "view": "Ver mapa",
-        "btn_new_map": "Nuevo mapa""manage_labels": "Administrar etiquetas",
+        "btn_new_map": "Nuevo mapa",
+        "manage_labels": "Administrar etiquetas",
         "load_error": "Error al cargar datos"
     },
     "labels": {
