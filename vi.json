@@ -105,7 +105,8 @@
         "inapp_warn_desc": "Vui lòng bấm vào dấu 3 chấm ở góc trên bên phải và chọn \"Mở bằng trình duyệt\" (Chrome/Safari) để đăng nhập Google.",
         "view": "Xem bản đồ",
         "btn_new_map": "Bản đồ mới",
-        "manage_labels": "Quản lý nhãn"
+        "manage_labels": "Quản lý nhãn",
+        "load_error": "Lỗi tải dữ liệu"
     },
     "labels": {
         "modal_title": "Quản lý nhãn",
@@ -117,7 +118,8 @@
         "unlabeled": "Chưa gắn nhãn",
         "saving": "Đang lưu...",
         "save_success": "Đã lưu nhãn thành công!",
-        "save_error": "Lỗi khi lưu nhãn."
+        "save_error": "Lỗi khi lưu nhãn.",
+        "create_new": "Tạo mới"
     }
     
 }
