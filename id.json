@@ -46,17 +46,17 @@
     "subscription": {
         "upgrade_title": "🚀 Tingkatkan ke QMS Plus",
         "upgrade_desc_1": "Anda telah menghabiskan kuota peta gratis Anda.",
-        "upgrade_desc_2": "Tingkatkan ke <b>QMS Plus</b> untuk membuka kapasitas penyimpanan hingga <b>1000 peta</b>!",
+        "upgrade_desc_2": "Tingkatkan ke <b>QMS Plus</b> untuk membuka kapasitas penyimpanan hingga <b>10000 peta</b>!",
         "btn_later": "Mungkin nanti",
-        "upgrade_success": "🎉 Luar biasa! Anda telah berhasil meningkatkan ke QMS Plus. 1000 peta terbuka!",
+        "upgrade_success": "🎉 Luar biasa! Anda telah berhasil meningkatkan ke QMS Plus. 10000 peta terbuka!",
         "upgrade_error": "Kesalahan: ",
         "upgrade_network_error": "Pembayaran selesai tetapi terjadi kesalahan jaringan. Silakan hubungi Admin untuk dukungan!",
-        "plus_limit_reached": "Sistem penuh! Anda telah mencapai batas maksimum 1000 peta untuk paket QMS Plus.",
+        "plus_limit_reached": "Sistem penuh! Anda telah mencapai batas maksimum 10000 peta untuk paket QMS Plus.",
         "storage_warning": "Peringatan kapasitas penyimpanan",
         "used_maps": "Anda telah menggunakan",
         "maps_limit": "peta.",
         "upgrade_link": "Tingkatkan ke QMS Plus",
-        "to_expand": "untuk menyimpan hingga 1000 peta dengan nyaman!",
+        "to_expand": "untuk menyimpan hingga 10000 peta dengan nyaman!",
         "plus_max_warn": "Anda mendekati batas maksimum dari paket Plus Anda."
     }
 }
