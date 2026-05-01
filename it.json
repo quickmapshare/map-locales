@@ -42,5 +42,21 @@
         "save_success": "Etichette salvate con successo!",
         "save_error": "Impossibile salvare le etichette.",
         "create_new": "Crea nuova"
+    },
+    "subscription": {
+        "upgrade_title": "🚀 Passa a QMS Plus",
+        "upgrade_desc_1": "Hai esaurito la tua quota di mappe gratuite.",
+        "upgrade_desc_2": "Passa a <b>QMS Plus</b> per sbloccare l'archiviazione fino a <b>1000 mappe</b>!",
+        "btn_later": "Forse più tardi",
+        "upgrade_success": "🎉 Fantastico! Sei passato con successo a QMS Plus. 1000 mappe sbloccate!",
+        "upgrade_error": "Errore: ",
+        "upgrade_network_error": "Pagamento completato ma si è verificato un errore di rete. Contatta l'Amministratore per supporto!",
+        "plus_limit_reached": "Sistema pieno! Hai raggiunto il limite massimo di 1000 mappe per il piano QMS Plus.",
+        "storage_warning": "Avviso sulla capacità di archiviazione",
+        "used_maps": "Hai usato",
+        "maps_limit": "mappe.",
+        "upgrade_link": "Passa a QMS Plus",
+        "to_expand": "per archiviare comodamente fino a 1000 mappe!",
+        "plus_max_warn": "Stai raggiungendo il limite massimo del tuo piano Plus."
     }
 }
