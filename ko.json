@@ -41,7 +41,8 @@
         "saving": "저장 중...",
         "save_success": "라벨이 성공적으로 저장되었습니다!",
         "save_error": "라벨 저장 실패.",
-        "create_new": "새로 만들기"
+        "create_new": "새로 만들기",
+        "add_label": "라벨 추가"
     },
     "subscription": {
         "upgrade_title": "🚀 QMS Plus로 업그레이드",
