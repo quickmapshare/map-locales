@@ -41,7 +41,8 @@
         "saving": "Salvando...",
         "save_success": "Rótulos salvos com sucesso!",
         "save_error": "Falha ao salvar rótulos.",
-        "create_new": "Criar novo"
+        "create_new": "Criar novo",
+        "add_label": "Adicionar etiqueta"
     },
     "subscription": {
         "upgrade_title": "🚀 Atualizar para QMS Plus",
