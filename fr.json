@@ -41,7 +41,8 @@
         "saving": "Enregistrement...",
         "save_success": "Étiquettes enregistrées avec succès !",
         "save_error": "Échec de l'enregistrement des étiquettes.",
-        "create_new": "Créer un nouveau"
+        "create_new": "Créer un nouveau",
+        "add_label": "Ajouter une étiquette"
     },
     "subscription": {
         "upgrade_title": "🚀 Passer à QMS Plus",
