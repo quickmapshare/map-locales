@@ -41,7 +41,8 @@
         "saving": "सहेजा जा रहा है...",
         "save_success": "लेबल सफलतापूर्वक सहेजे गए!",
         "save_error": "लेबल सहेजने में विफल।",
-        "create_new": "नया बनाएं"
+        "create_new": "नया बनाएं",
+        "add_label": "लेबल जोड़ें"
     },
     "subscription": {
         "upgrade_title": "🚀 QMS Plus में अपग्रेड करें",
