@@ -41,7 +41,8 @@
         "saving": "保存中...",
         "save_success": "ラベルが正常に保存されました！",
         "save_error": "ラベルの保存に失敗しました。",
-        "create_new": "新規作成"
+        "create_new": "新規作成",
+        "add_label": "ラベルを追加"
     },
     "subscription": {
         "upgrade_title": "🚀 QMS Plusにアップグレード",
