@@ -41,7 +41,8 @@
         "saving": "กำลังบันทึก...",
         "save_success": "บันทึกป้ายกำกับสำเร็จ!",
         "save_error": "ไม่สามารถบันทึกป้ายกำกับ",
-        "create_new": "สร้างใหม่"
+        "create_new": "สร้างใหม่",
+        "add_label": "เพิ่มป้ายกำกับ"
     },
     "subscription": {
         "upgrade_title": "🚀 อัปเกรดเป็น QMS Plus",
