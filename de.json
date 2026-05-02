@@ -41,7 +41,8 @@
         "saving": "Speichern...",
         "save_success": "Labels erfolgreich gespeichert!",
         "save_error": "Fehler beim Speichern der Labels.",
-        "create_new": "Neu erstellen"
+        "create_new": "Neu erstellen",
+        "add_label": "Label hinzufügen"
     },
     "subscription": {
         "upgrade_title": "🚀 Upgrade auf QMS Plus",
