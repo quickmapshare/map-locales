@@ -41,7 +41,8 @@
         "saving": "Menyimpan...",
         "save_success": "Label berhasil disimpan!",
         "save_error": "Gagal menyimpan label.",
-        "create_new": "Buat baru"
+        "create_new": "Buat baru",
+        "add_label": "Tambahkan label"
     },
     "subscription": {
         "upgrade_title": "🚀 Tingkatkan ke QMS Plus",
