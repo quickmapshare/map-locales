@@ -42,7 +42,9 @@
         "save_success": "Étiquettes enregistrées avec succès !",
         "save_error": "Échec de l'enregistrement des étiquettes.",
         "create_new": "Créer un nouveau",
-        "add_label": "Ajouter une étiquette"
+        "add_label": "Ajouter une étiquette",
+        "no_match": "Aucune carte ne correspond au filtre",
+        "remove_tags_hint": "Essayez de supprimer quelques étiquettes pour voir plus de résultats."
     },
     "subscription": {
         "upgrade_title": "🚀 Passer à QMS Plus",
