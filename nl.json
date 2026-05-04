@@ -42,7 +42,9 @@
         "save_success": "Labels succesvol opgeslagen!",
         "save_error": "Opslaan van labels mislukt.",
         "create_new": "Nieuw maken",
-        "add_label": "Label toevoegen"
+        "add_label": "Label toevoegen",
+        "no_match": "Geen kaarten komen overeen met het filter",
+        "remove_tags_hint": "Probeer enkele labels te verwijderen om meer resultaten te zien."
     },
     "subscription": {
         "upgrade_title": "🚀 Upgrade naar QMS Plus",
