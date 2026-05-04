@@ -120,7 +120,9 @@
         "save_success": "Labels saved successfully!",
         "save_error": "Failed to save labels.",
         "create_new": "Create new",
-        "add_label": "Add label"
+        "add_label": "Add label",
+        "no_match": "No maps match the filter",
+        "remove_tags_hint": "Try removing some labels to see more results."
     },
     "subscription": {
         "upgrade_title": "🚀 Upgrade to QMS Plus",
