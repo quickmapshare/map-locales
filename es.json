@@ -42,7 +42,9 @@
         "save_success": "¡Etiquetas guardadas con éxito!",
         "save_error": "Error al guardar etiquetas.",
         "create_new": "Crear nueva",
-        "add_label": "Añadir etiqueta"
+        "add_label": "Añadir etiqueta",
+        "no_match": "No hay mapas que coincidan con el filtro",
+        "remove_tags_hint": "Intenta eliminar algunas etiquetas para ver más resultados."
     },
     "subscription": {
         "upgrade_title": "🚀 Mejorar a QMS Plus",
