@@ -42,7 +42,9 @@
         "save_success": "라벨이 성공적으로 저장되었습니다!",
         "save_error": "라벨 저장 실패.",
         "create_new": "새로 만들기",
-        "add_label": "라벨 추가"
+        "add_label": "라벨 추가",
+        "no_match": "필터와 일치하는 지도가 없습니다",
+        "remove_tags_hint": "더 많은 결과를 보려면 일부 라벨을 제거해 보세요."
     },
     "subscription": {
         "upgrade_title": "🚀 QMS Plus로 업그레이드",
