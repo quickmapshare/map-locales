@@ -6,7 +6,13 @@
     "map_controls": { "tooltip_draw_poly": "绘制地块边界 (按 ESC 退出)", "tooltip_draw_line": "绘制路径 (按 ESC 退出)", "tooltip_my_location": "我的位置", "popup_you_are_here": "您在这里！", "popup_accuracy": "精度:", "alert_loc_error": "无法获取您的位置: " },
     "snapshot": { "tooltip_create_snapshot": "创建快照", "lbl_snapshot_link": "快照链接", "tooltip_copy_link": "复制链接", "btn_copy": "复制", "btn_copied": "已复制", "alert_draw_first": "请先绘制多边形或线条！", "alert_finish_drawing": "在创建链接前请先完成绘制！", "tooltip_generating_link": "正在生成链接..." },
     "alerts": { "no_coordinates": "未找到坐标！请输入数据。", "need_2_points": "绘制路径至少需要 2 个点！", "need_3_points": "绘制边界至少需要 3 个点！", "missing_meridian": "尚未确定中央子午线！", "select_province_first": "在输入 VN2000 坐标前请选择省份！", "out_of_bounds": "⚠️ 警告：该坐标不在 {province} 范围内！", "restricted_overlap": "🛑 拒绝访问：与限制区域重叠！", "restricted_close": "🛑 拒绝访问：地块距离限制区域太近 ({distance}m)。",
-        "export_empty": "没有可导出的地图数据！"},
+        "export_empty": "没有可导出的地图数据！",
+        "save_error": "保存地图时出错。",
+        "free_limit_maps": "您已达到100个免费保存地图的上限。",
+        "free_limit_points": "此地图包含超过1000个点，超出了免费计划的限制。",
+        "upgrade_prompt": "您想现在升级到 QMS Plus 吗？\n（点击“确定”进行升级，点击“取消”稍后再说）",
+        "guest_upgrade_warn": "您正在使用访客模式。请在升级前登录或创建一个免费帐户，以便系统保存您的权益！"
+    },
     "settings": { "show_board": "显示面板", "unit_metric": "公制 (m/ha)", "unit_imperial": "英制 (ft/ac)", "language": "语言:",
 
 "import_kml": "导入 KML",
