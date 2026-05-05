@@ -6,7 +6,13 @@
     "map_controls": { "tooltip_draw_poly": "Desenhar limite (ESC para sair)", "tooltip_draw_line": "Desenhar caminho (ESC para sair)", "tooltip_my_location": "Minha localização", "popup_you_are_here": "Você está aqui!", "popup_accuracy": "Precisão:", "alert_loc_error": "Não foi possível encontrar sua localização: " },
     "snapshot": { "tooltip_create_snapshot": "Criar Snapshot", "lbl_snapshot_link": "Link do Snapshot", "tooltip_copy_link": "Copiar link", "btn_copy": "Copiar", "btn_copied": "Copiado", "alert_draw_first": "Desenhe um polígono ou linha primeiro!", "alert_finish_drawing": "Termine o desenho antes de criar um link!", "tooltip_generating_link": "Gerando link..." },
     "alerts": { "no_coordinates": "Nenhuma coordenada encontrada! Insira os dados.", "need_2_points": "Pelo menos 2 pontos necessários para um caminho!", "need_3_points": "Pelo menos 3 pontos necessários para um limite!", "missing_meridian": "Meridiano Central não determinado!", "select_province_first": "Selecione Província/Meridiano antes de inserir coordenadas VN2000!", "out_of_bounds": "⚠️ ALERTA: Estas coordenadas VN-2000 NÃO ESTÃO EM {province}!\n\nMeridiano Central incorreto? Verifique!", "restricted_overlap": "🛑 ACESSO NEGADO: Sobreposição com área restrita!", "restricted_close": "🛑 ACESSO NEGADO: Muito perto de uma área restrita ({distance}m).",
-        "export_empty": "Não há dados de mapa para exportar!"},
+        "export_empty": "Não há dados de mapa para exportar!",
+        "save_error": "Ocorreu um erro ao salvar o mapa.",
+        "free_limit_maps": "Você atingiu o limite de 100 mapas salvos gratuitamente.",
+        "free_limit_points": "Este mapa contém mais de 1000 pontos, excedendo o limite do plano gratuito.",
+        "upgrade_prompt": "Gostaria de fazer o upgrade para o QMS Plus agora?\n(Clique em OK para fazer o upgrade, Cancelar para fazer depois)",
+        "guest_upgrade_warn": "Você está usando o modo Convidado. Faça login ou crie uma conta gratuita antes de atualizar para que o sistema possa salvar seus benefícios!"
+    },
     "settings": { "show_board": "Mostrar Painel", "unit_metric": "Métrico (m/ha)", "unit_imperial": "Imperial (ft/ac)", "language": "Idioma:",
 
 "import_kml": "Importar KML",
