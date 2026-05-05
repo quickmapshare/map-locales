@@ -6,7 +6,12 @@
     "map_controls": { "tooltip_draw_poly": "Gambar batas bidang (Tekan ESC untuk keluar)", "tooltip_draw_line": "Gambar jalur (Tekan ESC untuk keluar)", "tooltip_my_location": "Lokasi saya", "popup_you_are_here": "Anda di sini!", "popup_accuracy": "Akurasi:", "alert_loc_error": "Tidak dapat menemukan lokasi Anda: " },
     "snapshot": { "tooltip_create_snapshot": "Buat Tautan (Snapshot)", "lbl_snapshot_link": "Tautan Snapshot", "tooltip_copy_link": "Salin tautan", "btn_copy": "Salin", "btn_copied": "Tersalin", "alert_draw_first": "Harap gambar poligon atau garis terlebih dahulu!", "alert_finish_drawing": "Harap selesaikan gambar Anda sebelum membuat tautan!", "tooltip_generating_link": "Membuat tautan..." },
     "alerts": { "no_coordinates": "Koordinat tidak ditemukan! Harap masukkan data Anda.", "need_2_points": "Minimal 2 titik diperlukan untuk menggambar jalur!", "need_3_points": "Minimal 3 titik diperlukan untuk menggambar batas!", "missing_meridian": "Meridian Tengah belum ditentukan!", "select_province_first": "Harap pilih Provinsi/Meridian Tengah sebelum memasukkan koordinat VN2000!", "out_of_bounds": "⚠️ PERINGATAN: Koordinat VN-2000 ini TIDAK BERADA DI DALAM {province}!\n\nAnda mungkin memilih Meridian Tengah yang salah. Harap periksa kembali!", "restricted_overlap": "🛑 AKSES DITOLAK: Koordinat ini tumpang tindih dengan area terlarang!", "restricted_close": "🛑 AKSES DITOLAK: Bidang tanah terlalu dekat dengan area terlarang ({distance}m).",
-        "export_empty": "Tidak ada data peta untuk diekspor!"
+        "export_empty": "Tidak ada data peta untuk diekspor!",
+        "save_error": "Terjadi kesalahan saat menyimpan peta.",
+        "free_limit_maps": "Anda telah mencapai batas 100 peta tersimpan gratis.",
+        "free_limit_points": "Peta ini berisi lebih dari 1000 titik, melebihi batas paket gratis.",
+        "upgrade_prompt": "Apakah Anda ingin meningkatkan ke QMS Plus sekarang?\n(Klik OK untuk meningkatkan, Batal untuk melakukannya nanti)",
+        "guest_upgrade_warn": "Anda menggunakan mode Tamu. Silakan masuk atau buat akun gratis sebelum meningkatkan agar sistem dapat menyimpan keuntungan Anda!"
     },
     "settings": { "show_board": "Tampilkan Papan", "unit_metric": "Metrik (m/ha)", "unit_imperial": "Imperial (ft/ac)", "language": "Bahasa:",
         "import_kml": "Impor KML",
