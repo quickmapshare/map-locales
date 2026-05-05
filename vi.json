@@ -64,7 +64,12 @@
         "out_of_bounds": "⚠️ CẢNH BÁO ĐỎ: Các tọa độ VN-2000 này KHÔNG NẰM TRONG {province}!\n\nCó thể bạn đã chọn sai Kinh tuyến trục. Vui lòng kiểm tra lại!",
         "restricted_overlap": "🛑 TỪ CHỐI TRUY CẬP: Các tọa độ này chồng lấn với khu vực hạn chế!",
         "restricted_close": "🛑 TỪ CHỐI TRUY CẬP: Thửa đất quá gần khu vực hạn chế ({distance}m).",
-        "export_empty": "Chưa có dữ liệu bản đồ để xuất!"
+        "export_empty": "Chưa có dữ liệu bản đồ để xuất!",
+        "save_error": "Có lỗi xảy ra khi lưu bản đồ.",
+        "free_limit_maps": "Bác đã đạt giới hạn 100 bản đồ lưu trữ miễn phí.",
+        "free_limit_points": "Bản đồ này có hơn 1000 điểm, vượt quá giới hạn của gói miễn phí.",
+        "upgrade_prompt": "Bác có muốn nâng cấp lên gói QMS Plus ngay bây giờ không?\n(Bấm OK để nâng cấp, Cancel để để sau)",
+        "guest_upgrade_warn": "Bác đang dùng ở chế độ Khách. Vui lòng đăng nhập hoặc tạo tài khoản miễn phí trước khi nâng cấp nhé để hệ thống lưu quyền lợi cho bác!"
     },
     "settings": {
         "show_board": "Hiện bảng",
