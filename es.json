@@ -6,7 +6,13 @@
     "map_controls": { "tooltip_draw_poly": "Dibujar límite de parcela (ESC para salir)", "tooltip_draw_line": "Dibujar ruta (ESC para salir)", "tooltip_my_location": "Mi ubicación", "popup_you_are_here": "¡Estás aquí!", "popup_accuracy": "Precisión:", "alert_loc_error": "No se pudo encontrar su ubicación: " },
     "snapshot": { "tooltip_create_snapshot": "Crear Snapshot", "lbl_snapshot_link": "Enlace de Snapshot", "tooltip_copy_link": "Copiar enlace", "btn_copy": "Copiar", "btn_copied": "Copiado", "alert_draw_first": "¡Por favor, dibuje un polígono o línea primero!", "alert_finish_drawing": "¡Por favor, termine el dibujo antes de crear un enlace!", "tooltip_generating_link": "Generando enlace..." },
     "alerts": { "no_coordinates": "¡No se encontraron coordenadas! Ingrese sus datos.", "need_2_points": "¡Se requieren al menos 2 puntos para dibujar una ruta!", "need_3_points": "¡Se requieren al menos 3 puntos para dibujar un límite!", "missing_meridian": "¡Meridiano Central no determinado!", "select_province_first": "¡Seleccione Provincia/Meridiano Central antes de ingresar coordenadas VN2000!", "out_of_bounds": "⚠️ ALERTA: ¡Estas coordenadas VN-2000 NO CAEN DENTRO DE {province}!\n\nPosible Meridiano Central incorrecto. ¡Verifique!", "restricted_overlap": "🛑 ACCESO DENEGADO: ¡Estas coordenadas se superponen con un área restringida!", "restricted_close": "🛑 ACCESO DENEGADO: La parcela está demasiado cerca de un área restringida ({distance}m).",
-        "export_empty": "¡No hay datos de mapa para exportar!"},
+        "export_empty": "¡No hay datos de mapa para exportar!",
+        "save_error": "Se produjo un error al guardar el mapa.",
+        "free_limit_maps": "Ha alcanzado el límite de 100 mapas guardados gratis.",
+        "free_limit_points": "Este mapa contiene más de 1000 puntos, superando el límite del plan gratuito.",
+        "upgrade_prompt": "¿Desea actualizar a QMS Plus ahora mismo?\n(Haga clic en Aceptar para actualizar, Cancelar para hacerlo más tarde)",
+        "guest_upgrade_warn": "Está utilizando el modo Invitado. ¡Inicie sesión o cree una cuenta gratuita antes de actualizar para que el sistema pueda guardar sus beneficios!"
+    },
     "settings": { "show_board": "Mostrar Panel", "unit_metric": "Métrico (m/ha)", "unit_imperial": "Imperial (ft/ac)", "language": "Idioma:",
 
 "import_kml": "Importar KML",
