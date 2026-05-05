@@ -6,7 +6,13 @@
     "map_controls": { "tooltip_draw_poly": "Teken grens (ESC om te sluiten)", "tooltip_draw_line": "Teken pad (ESC om te sluiten)", "tooltip_my_location": "Mijn locatie", "popup_you_are_here": "U bent hier!", "popup_accuracy": "Nauwkeurigheid:", "alert_loc_error": "Kan uw locatie niet vinden: " },
     "snapshot": { "tooltip_create_snapshot": "Maak Snapshot", "lbl_snapshot_link": "Snapshot Link", "tooltip_copy_link": "Link kopiëren", "btn_copy": "Kopiëren", "btn_copied": "Gekopieerd", "alert_draw_first": "Teken eerst een polygoon of lijn!", "alert_finish_drawing": "Voltooi uw tekening voordat u een link maakt!", "tooltip_generating_link": "Link genereren..." },
     "alerts": { "no_coordinates": "Geen coördinaten gevonden! Voer gegevens in.", "need_2_points": "Minimaal 2 punten nodig voor een pad!", "need_3_points": "Minimaal 3 punten nodig voor een grens!", "missing_meridian": "Centrale Meridiaan niet bepaald!", "select_province_first": "Selecteer Provincie/Meridiaan voordat u VN2000 invoert!", "out_of_bounds": "⚠️ WAARSCHUWING: Deze VN-2000 coördinaten VALLEN NIET IN {province}!\n\nVerkeerde Centrale Meridiaan? Controleer dit!", "restricted_overlap": "🛑 TOEGANG GEWEIGERD: Overlapt met een verboden gebied!", "restricted_close": "🛑 TOEGANG GEWEIGERD: Te dicht bij een verboden gebied ({distance}m).",
-        "export_empty": "Geen kaartgegevens om te exporteren!"},
+        "export_empty": "Geen kaartgegevens om te exporteren!",
+        "save_error": "Er is een fout opgetreden bij het opslaan van de kaart.",
+        "free_limit_maps": "U heeft de limiet van 100 gratis opgeslagen kaarten bereikt.",
+        "free_limit_points": "Deze kaart bevat meer dan 1000 punten, wat de limiet van het gratis abonnement overschrijdt.",
+        "upgrade_prompt": "Wilt u nu upgraden naar QMS Plus?\n(Klik op OK om te upgraden, Annuleren om het later te doen)",
+        "guest_upgrade_warn": "U gebruikt de gastmodus. Log in of maak een gratis account aan voordat u gaat upgraden, zodat het systeem uw voordelen kan opslaan!"
+    },
     "settings": { "show_board": "Toon Paneel", "unit_metric": "Metrisch (m/ha)", "unit_imperial": "Imperiaal (ft/ac)", "language": "Taal:",
 
 "import_kml": "KML importeren",
