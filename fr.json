@@ -6,7 +6,13 @@
     "map_controls": { "tooltip_draw_poly": "Dessiner les limites (Échap pour quitter)", "tooltip_draw_line": "Dessiner le chemin (Échap pour quitter)", "tooltip_my_location": "Ma position", "popup_you_are_here": "Vous êtes ici !", "popup_accuracy": "Précision :", "alert_loc_error": "Impossible de trouver votre position : " },
     "snapshot": { "tooltip_create_snapshot": "Créer un Snapshot", "lbl_snapshot_link": "Lien Snapshot", "tooltip_copy_link": "Copier le lien", "btn_copy": "Copier", "btn_copied": "Copié", "alert_draw_first": "Veuillez d'abord dessiner un polygone ou une ligne !", "alert_finish_drawing": "Veuillez terminer le dessin avant de créer un lien !", "tooltip_generating_link": "Génération du lien..." },
     "alerts": { "no_coordinates": "Aucune coordonnée trouvée ! Veuillez entrer vos données.", "need_2_points": "Au moins 2 points sont requis pour une ligne !", "need_3_points": "Au moins 3 points sont requis pour une limite !", "missing_meridian": "Méridien Central non déterminé !", "select_province_first": "Sélectionnez une Province avant d'entrer les coordonnées VN2000 !", "out_of_bounds": "⚠️ ALERTE : Ces coordonnées VN-2000 NE SONT PAS DANS {province} !\n\nMéridien Central incorrect ? Vérifiez !", "restricted_overlap": "🛑 ACCÈS REFUSÉ : Chevauchement avec une zone restreinte !", "restricted_close": "🛑 ACCÈS REFUSÉ : Trop proche d'une zone restreinte ({distance}m).",
-        "export_empty": "Aucune donnée de carte à exporter !"},
+        "export_empty": "Aucune donnée de carte à exporter !",
+        "save_error": "Une erreur s'est produite lors de l'enregistrement de la carte.",
+        "free_limit_maps": "Vous avez atteint la limite de 100 cartes enregistrées gratuitement.",
+        "free_limit_points": "Cette carte contient plus de 1000 points, dépassant la limite du forfait gratuit.",
+        "upgrade_prompt": "Souhaitez-vous passer à QMS Plus dès maintenant ?\n(Cliquez sur OK pour passer au niveau supérieur, sur Annuler pour le faire plus tard)",
+        "guest_upgrade_warn": "Vous utilisez le mode Invité. Veuillez vous connecter ou créer un compte gratuit avant de mettre à niveau afin que le système puisse enregistrer vos avantages !"
+    },
     "settings": { "show_board": "Afficher le Panneau", "unit_metric": "Métrique (m/ha)", "unit_imperial": "Impérial (ft/ac)", "language": "Langue :",
 
 "import_kml": "Importer KML",
