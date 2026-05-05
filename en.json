@@ -64,7 +64,12 @@
         "out_of_bounds": "⚠️ RED ALERT: These VN-2000 coordinates DO NOT FALL INSIDE {province}!\n\nYou may have selected the wrong Central Meridian. Please double check!",
         "restricted_overlap": "🛑 ACCESS DENIED: These coordinates overlap with a restricted area!",
         "restricted_close": "🛑 ACCESS DENIED: The plot is too close to a restricted area ({distance}m).",
-        "export_empty": "No map data to export!"
+        "export_empty": "No map data to export!",
+        "save_error": "An error occurred while saving the map.",
+        "free_limit_maps": "You have reached the limit of 100 free saved maps.",
+        "free_limit_points": "This map contains over 1000 points, exceeding the free plan limit.",
+        "upgrade_prompt": "Would you like to upgrade to QMS Plus right now?\n(Click OK to upgrade, Cancel to do it later)",
+        "guest_upgrade_warn": "You are using Guest mode. Please sign in or create a free account before upgrading so the system can save your benefits!"
     },
     "settings": {
         "show_board": "Show Board",
