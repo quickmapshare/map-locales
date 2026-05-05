@@ -6,7 +6,13 @@
     "map_controls": { "tooltip_draw_poly": "境界を描く (ESCで終了)", "tooltip_draw_line": "パスを描く (ESCで終了)", "tooltip_my_location": "現在地", "popup_you_are_here": "現在地", "popup_accuracy": "精度:", "alert_loc_error": "現在地が見つかりませんでした: " },
     "snapshot": { "tooltip_create_snapshot": "スナップショットを作成", "lbl_snapshot_link": "スナップショットリンク", "tooltip_copy_link": "リンクをコピー", "btn_copy": "コピー", "btn_copied": "コピー完了", "alert_draw_first": "最初にポリゴンまたは線を描いてください！", "alert_finish_drawing": "リンクを作成する前に描画を完了してください！", "tooltip_generating_link": "リンクを作成中..." },
     "alerts": { "no_coordinates": "座標が見つかりません！データを入力してください。", "need_2_points": "パスを描くには最低2点が必要です！", "need_3_points": "境界を描くには最低3点が必要です！", "missing_meridian": "中央子午線が未設定です！", "select_province_first": "座標を入力する前に地域を選択してください！", "out_of_bounds": "⚠️ 警告: この座標は {province} 内にありません！", "restricted_overlap": "🛑 アクセス拒否: 制限エリアと重なっています！", "restricted_close": "🛑 アクセス拒否: 制限エリアに近すぎます ({distance}m)。",
-        "export_empty": "エクスポートするマップデータがありません！"},
+        "export_empty": "エクスポートするマップデータがありません！",
+        "save_error": "マップの保存中にエラーが発生しました。",
+        "free_limit_maps": "無料で保存できるマップの制限である100件に達しました。",
+        "free_limit_points": "このマップには1000以上のポイントが含まれており、無料プランの制限を超えています。",
+        "upgrade_prompt": "今すぐQMS Plusにアップグレードしますか？\n（アップグレードするには「OK」を、後で行うには「キャンセル」をクリックしてください）",
+        "guest_upgrade_warn": "ゲストモードを使用しています。システムが特典を保存できるように、アップグレードする前にログインするか、無料アカウントを作成してください！"
+    },
     "settings": { "show_board": "パネルを表示", "unit_metric": "メートル法 (m/ha)", "unit_imperial": "ヤード・ポンド法 (ft/ac)", "language": "言語:",
 
 "import_kml": "KMLをインポート",
