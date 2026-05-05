@@ -6,7 +6,13 @@
     "map_controls": { "tooltip_draw_poly": "Sınır çiz (Çıkmak için ESC)", "tooltip_draw_line": "Yol çiz (Çıkmak için ESC)", "tooltip_my_location": "Konumum", "popup_you_are_here": "Buradasınız!", "popup_accuracy": "Doğruluk:", "alert_loc_error": "Konumunuz bulunamadı: " },
     "snapshot": { "tooltip_create_snapshot": "Anlık Görüntü (Snapshot) Oluştur", "lbl_snapshot_link": "Snapshot Bağlantısı", "tooltip_copy_link": "Bağlantıyı kopyala", "btn_copy": "Kopyala", "btn_copied": "Kopyalandı", "alert_draw_first": "Lütfen önce çokgen veya çizgi çizin!", "alert_finish_drawing": "Bağlantı oluşturmadan önce çizimi bitirin!", "tooltip_generating_link": "Bağlantı oluşturuluyor..." },
     "alerts": { "no_coordinates": "Koordinat bulunamadı! Verilerinizi girin.", "need_2_points": "Yol için en az 2 nokta gerekli!", "need_3_points": "Sınır için en az 3 nokta gerekli!", "missing_meridian": "Merkezi Meridyen belirlenmedi!", "select_province_first": "Lütfen VN2000 girmeden önce İl/Meridyen seçin!", "out_of_bounds": "⚠️ UYARI: Bu VN-2000 koordinatları {province} İÇİNDE DEĞİL!\n\nYanlış Meridyen seçilmiş olabilir. Lütfen kontrol edin!", "restricted_overlap": "🛑 ERİŞİM REDDEDİLDİ: Yasaklı alanla kesişiyor!", "restricted_close": "🛑 ERİŞİM REDDEDİLDİ: Yasaklı alana çok yakın ({distance}m).",
-        "export_empty": "Dışa aktarılacak harita verisi yok!"},
+        "export_empty": "Dışa aktarılacak harita verisi yok!",
+        "save_error": "Harita kaydedilirken bir hata oluştu.",
+        "free_limit_maps": "100 ücretsiz kaydedilmiş harita sınırına ulaştınız.",
+        "free_limit_points": "Bu harita 1000'den fazla nokta içeriyor ve ücretsiz plan sınırını aşıyor.",
+        "upgrade_prompt": "Hemen QMS Plus'a yükseltmek ister misiniz?\n(Yükseltmek için Tamam'a, daha sonra yapmak için İptal'e tıklayın)",
+        "guest_upgrade_warn": "Misafir modunu kullanıyorsunuz. Sistemin avantajlarınızı kaydedebilmesi için yükseltme yapmadan önce lütfen oturum açın veya ücretsiz bir hesap oluşturun!"
+    },
     "settings": { "show_board": "Paneli Göster", "unit_metric": "Metrik (m/ha)", "unit_imperial": "İmparatorluk (ft/ac)", "language": "Dil:",
 
 "import_kml": "KML İçe Aktar",
