@@ -69,6 +69,11 @@
         "maps_limit": "peta.",
         "upgrade_link": "Tingkatkan ke QMS Plus",
         "to_expand": "untuk menyimpan hingga 10000 peta dengan nyaman!",
-        "plus_max_warn": "Anda mendekati batas maksimum dari paket Plus Anda."
+        "plus_max_warn": "Anda mendekati batas maksimum dari paket Plus Anda.",
+        "confirm_cancel": "Apakah Anda yakin ingin membatalkan langganan QMS Plus Anda?",
+        "cancel_success": "🎉 Langganan berhasil dibatalkan! Anda tidak akan dikenakan biaya pada siklus penagihan berikutnya.",
+        "error_prefix": "⚠️ Kesalahan:",
+        "cancel_failed": "Gagal membatalkan langganan, silakan hubungi admin.",
+        "server_error": "Terjadi kesalahan koneksi server. Silakan buka Konsol (F12) untuk detail lebih lanjut."
     }
 }
