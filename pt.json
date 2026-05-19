@@ -70,6 +70,11 @@
         "maps_limit": "mapas.",
         "upgrade_link": "Atualizar para QMS Plus",
         "to_expand": "para armazenar confortavelmente até 10000 mapas!",
-        "plus_max_warn": "Você está atingindo o limite máximo do seu plano Plus."
+        "plus_max_warn": "Você está atingindo o limite máximo do seu plano Plus.",
+        "confirm_cancel": "Tem certeza de que deseja cancelar sua assinatura do QMS Plus?",
+        "cancel_success": "🎉 Assinatura cancelada com sucesso! Você não será cobrado no próximo ciclo de faturamento.",
+        "error_prefix": "⚠️ Erro:",
+        "cancel_failed": "Falha ao cancelar a assinatura, por favor entre em contato com o administrador.",
+        "server_error": "Ocorreu um erro de conexão com o servidor. Por favor, abra o Console (F12) para mais detalhes."
     }
 }
