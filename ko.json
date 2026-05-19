@@ -70,6 +70,11 @@
         "maps_limit": "개",
         "upgrade_link": "QMS Plus로 업그레이드",
         "to_expand": "하여 최대 10000개의 지도를 넉넉하게 저장하세요!",
-        "plus_max_warn": "Plus 요금제의 최대 한도에 도달하고 있습니다."
+        "plus_max_warn": "Plus 요금제의 최대 한도에 도달하고 있습니다.",
+        "confirm_cancel": "QMS Plus 구독을 취소하시겠습니까?",
+        "cancel_success": "🎉 구독이 성공적으로 취소되었습니다! 다음 결제 주기에는 요금이 청구되지 않습니다.",
+        "error_prefix": "⚠️ 오류:",
+        "cancel_failed": "구독 취소에 실패했습니다. 관리자에게 문의해 주세요.",
+        "server_error": "서버 연결 오류가 발생했습니다. 자세한 내용은 콘솔(F12)을 열어 확인해 주세요."
     }
 }
