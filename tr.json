@@ -70,6 +70,11 @@
         "maps_limit": "harita.",
         "upgrade_link": "QMS Plus'a Yükselt",
         "to_expand": "ile 10000 haritaya kadar rahatça depolama yapın!",
-        "plus_max_warn": "Plus planınızın maksimum sınırına ulaşıyorsunuz."
+        "plus_max_warn": "Plus planınızın maksimum sınırına ulaşıyorsunuz.",
+        "confirm_cancel": "QMS Plus aboneliğinizi iptal etmek istediğinizden emin misiniz?",
+        "cancel_success": "🎉 Abonelik başarıyla iptal edildi! Bir sonraki faturalandırma döneminde ücretlendirilmeyeceksiniz.",
+        "error_prefix": "⚠️ Hata:",
+        "cancel_failed": "Abonelik iptal edilemedi, lütfen yönetici ile iletişime geçin.",
+        "server_error": "Sunucu bağlantı hatası oluştu. Daha fazla ayrıntı için lütfen Konsolu (F12) açın."
     }
 }
