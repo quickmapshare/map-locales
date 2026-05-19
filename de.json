@@ -69,6 +69,11 @@
         "maps_limit": "Karten verwendet.",
         "upgrade_link": "Auf QMS Plus upgraden",
         "to_expand": "um bis zu 10000 Karten bequem zu speichern!",
-        "plus_max_warn": "Sie erreichen das maximale Limit Ihres Plus-Plans."
+        "plus_max_warn": "Sie erreichen das maximale Limit Ihres Plus-Plans.",
+        "confirm_cancel": "Sind Sie sicher, dass Sie Ihr QMS Plus-Abonnement kündigen möchten?",
+        "cancel_success": "🎉 Abonnement erfolgreich gekündigt! Im nächsten Abrechnungszeitraum werden Ihnen keine Kosten berechnet.",
+        "error_prefix": "⚠️ Fehler:",
+        "cancel_failed": "Abonnementskündigung fehlgeschlagen, bitte wenden Sie sich an den Admin.",
+        "server_error": "Ein Serververbindungsfehler ist aufgetreten. Bitte öffnen Sie die Konsole (F12) für weitere Details."
     }
 }
