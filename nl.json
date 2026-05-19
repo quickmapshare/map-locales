@@ -70,6 +70,11 @@
         "maps_limit": "kaarten gebruikt.",
         "upgrade_link": "Upgrade naar QMS Plus",
         "to_expand": "om comfortabel tot 10000 kaarten op te slaan!",
-        "plus_max_warn": "Je bereikt de maximale limiet van je Plus-abonnement."
+        "plus_max_warn": "Je bereikt de maximale limiet van je Plus-abonnement.",
+        "confirm_cancel": "Weet u zeker dat u uw QMS Plus-abonnement wilt opzeggen?",
+        "cancel_success": "🎉 Abonnement succesvol opgezegd! Er worden geen kosten in rekening gebracht in de volgende facturatiecyclus.",
+        "error_prefix": "⚠️ Fout:",
+        "cancel_failed": "Opzeggen van abonnement mislukt, neem contact op met de beheerder.",
+        "server_error": "Er is een verbindingsfout met de server opgetreden. Open de console (F12) voor meer details."
     }
 }
