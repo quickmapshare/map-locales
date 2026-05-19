@@ -146,7 +146,12 @@
         "maps_limit": "bản đồ.",
         "upgrade_link": "Nâng cấp QMS Plus",
         "to_expand": "để thoải mái lưu trữ lên đến 10000 bản đồ nhé!",
-        "plus_max_warn": "Bác sắp đạt giới hạn tối đa của gói Plus."
+        "plus_max_warn": "Bác sắp đạt giới hạn tối đa của gói Plus.",
+        "confirm_cancel": "Bạn có chắc chắn muốn hủy gia hạn gói QMS Plus không?",
+        "cancel_success": "🎉 Đã hủy gia hạn thành công! Gói của bạn sẽ không bị trừ tiền ở kỳ tới.",
+        "error_prefix": "⚠️ Lỗi:",
+        "cancel_failed": "Không thể hủy gói, vui lòng liên hệ admin.",
+        "server_error": "Đã xảy ra lỗi kết nối với máy chủ. Bác mở Console (F12) xem chi tiết nhé."
     }
     
 }
