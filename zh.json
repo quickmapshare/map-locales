@@ -70,6 +70,11 @@
         "maps_limit": "张地图。",
         "upgrade_link": "升级到 QMS Plus",
         "to_expand": "以轻松存储多达 10000 张地图！",
-        "plus_max_warn": "您即将达到 Plus 套餐的最大限制。"
+        "plus_max_warn": "您即将达到 Plus 套餐的最大限制。",
+        "confirm_cancel": "您确定要取消您的 QMS Plus 订阅吗？",
+        "cancel_success": "🎉 订阅已成功取消！您在下一个计费周期内不会被扣费。",
+        "error_prefix": "⚠️ 错误：",
+        "cancel_failed": "取消订阅失败，请联系管理员。",
+        "server_error": "发生服务器连接错误。请打开控制台 (F12) 查看更多详情。"
     }
 }
