@@ -70,6 +70,11 @@
         "maps_limit": "cartes.",
         "upgrade_link": "Passer à QMS Plus",
         "to_expand": "pour stocker confortablement jusqu'à 10000 cartes !",
-        "plus_max_warn": "Vous atteignez la limite maximale de votre forfait Plus."
+        "plus_max_warn": "Vous atteignez la limite maximale de votre forfait Plus.",
+        "confirm_cancel": "Êtes-vous sûr de vouloir résilier votre abonnement QMS Plus ?",
+        "cancel_success": "🎉 Abonnement résilié avec succès ! Vous ne serez pas facturé lors du prochain cycle de facturation.",
+        "error_prefix": "⚠️ Erreur :",
+        "cancel_failed": "Échec de la résiliation de l'abonnement, veuillez contacter l'administrateur.",
+        "server_error": "Une erreur de connexion au serveur est survenue. Veuillez ouvrir la console (F12) pour plus de détails."
     }
 }
