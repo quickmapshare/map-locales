@@ -146,6 +146,12 @@
         "maps_limit": "maps.",
         "upgrade_link": "Upgrade to QMS Plus",
         "to_expand": "to comfortably store up to 10000 maps!",
-        "plus_max_warn": "You are reaching the maximum limit of your Plus plan."
+        "plus_max_warn": "You are reaching the maximum limit of your Plus plan.",
+        "login_required": "Please log in before performing this action!",
+        "confirm_cancel": "Are you sure you want to cancel your QMS Plus subscription?",
+        "cancel_success": "🎉 Subscription cancelled successfully! You will not be charged in the next billing cycle.",
+        "error_prefix": "⚠️ Error:",
+        "cancel_failed": "Failed to cancel subscription, please contact the admin.",
+        "server_error": "A server connection error occurred. Please open the Console (F12) for more details."
     }
 }
